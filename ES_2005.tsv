@@ -1,0 +1,82 @@
+GERAL	ÍTEM	STATUS	GRUPO	FAMÍLIA	ESPÉCIE	NOME VULGAR
+30	1	CRITICAMENTE EM PERIGO	Aves	Tinamidae	Tinamus solitarius(Vieillot, 1819)	Macuco
+31	2	EM PERIGO	Aves	Tinamidae	Crypturellus variegatus (Gmelin, 1789)	Chororão
+32	3	CRITICAMENTE EM PERIGO	Aves	Tinamidae	Crypturellus noctivagus (Wied, 1820)	Jaó-do-sul
+33	4	EM PERIGO	Aves	Procellariidae	Pterodroma arminjoniana (Giglioli & Salvadori, 1868)	Pardela-da-trindade
+34	5	CRITICAMENTE EM PERIGO	Aves	Procellariidae	Puffinus lherminieri Lesson, 1839	Pardela-de-asa-larga
+35	6	EM PERIGO	Aves	Sulidae	Sula sula (Linnaeus, 1766)	Atobá-de-pé-vermelho
+36	7	CRITICAMENTE EM PERIGO	Aves	Fregatidae	Fregata minor (Gmelin, 1789)	Tesourão-grande
+37	8	CRITICAMENTE EM PERIGO	Aves	Fregatidae	Fregata ariel Gray, 1845	Tesourão-pequeno
+38	9	CRITICAMENTE EM PERIGO	Aves	Ciconiidae	Ciconia maguari (Gmelin, 1789)	Maguari, João-grande
+39	10	VULNERÁVEL	Aves	Cathartidae	Sarcoramphus papa (Linnaeus, 1758)	Urubu-rei
+40	11	VULNERÁVEL	Aves	Accipitridae	Leucopternis polionota (Kaup, 1847)	Gavião-pombo-grande
+41	12	CRITICAMENTE EM PERIGO	Aves	Accipitridae	Morphnus guianensis (Daudin, 1800)	Uiraçu-falso
+42	13	CRITICAMENTE EM PERIGO	Aves	Accipitridae	Harpia harpyja (Linnaeus, 1758)	Águia-real, Uiraçu-verdadeiro
+43	14	VULNERÁVEL	Aves	Accipitridae	Spizastur melanoleucus (Vieillot, 1816)	Gavião-pato
+44	15	CRITICAMENTE EM PERIGO	Aves	Accipitridae	Spizaetus ornatus (Daudin, 1801)	Gavião-de-penacho
+45	16	VULNERÁVEL	Aves	Accipitridae	Spizaetus tyrannus (Wied, 1820)	Gavião-pega-macaco
+46	17	VULNERÁVEL	Aves	Accipitridae	Circus buffoni (Gmelin, 1788)	Gavião-do-mangue
+47	18	VULNERÁVEL	Aves	Cracidae	Penelope obscura Temminck, 1815	Jacuguaçu, Jacuaçu
+48	19	CRITICAMENTE EM PERIGO	Aves	Cracidae	Crax blumembachii Spix, 1825	Mutum, Mutum-de-penacho
+49	20	EM PERIGO	Aves	Phasianidae	Odontophorus capueira (Spix, 1825)	Uru, Capoeira
+50	21	CRITICAMENTE EM PERIGO	Aves	Columbidae	Claravis godefrida (Temminck, 1811)	Pararu, Pomba-espelho
+51	22	CRITICAMENTE EM PERIGO	Aves	Columbidae	Geotrygon violacea (Temminck, 1810)	Juriti-vermelha, Juriti-roxa
+52	23	VULNERÁVEL	Aves	Psittacidae	Aratinga auricapillus (Kuhl, 1820)	Jandaia
+53	24	EM PERIGO	Aves	Psittacidae	Pyrrhura cruentata (Wied, 1820)	Fura-mato
+54	25	EM PERIGO	Aves	Psittacidae	Pyrrhura leucotis (Kuhl, 1820)	Tiriba-de-orelha-branca
+55	26	EM PERIGO	Aves	Psittacidae	Touit melanonotus (Wied, 1818)	Apuim-de-cauda-vermelha
+56	27	EM PERIGO	Aves	Psittacidae	Touit surdus (Kuhl, 1820)	Apuim-de-cauda-amarela
+57	28	VULNERÁVEL	Aves	Psittacidae	Pionopsitta pileata (Scopoli, 1769)	Cuiú-cuiú
+58	29	VULNERÁVEL	Aves	Psittacidae	Pionus menstruus (Linnaeus, 1766)	Maitaca-de-cabeça-azul, Suia
+59	30	CRITICAMENTE EM PERIGO	Aves	Psittacidae	Amazona rhodocorytha	Papagaio-moleiro, Papagaio-galego
+60	31	CRITICAMENTE EM PERIGO	Aves	Psittacidae	Amazona vinacea (Kuhl, 1820)	Papagaio-de-peito-roxo
+61	32	CRITICAMENTE EM PERIGO	Aves	Psittacidae	Triclaria malachitacea (Spix, 1824)	Sabiá-cica
+62	33	CRITICAMENTE EM PERIGO	Aves	Cuculidae	Neomorphus geoffroyi (Temminck, 1820)	Jacu-estalo
+63	34	EM PERIGO	Aves	Strigidae	Glaucidium minutissimum (Wied, 1821)	Caburé-miudinho
+64	35	VULNERÁVEL	Aves	Strigidae	Ciccaba huhula (Daudin, 1800)	Coruja-preta, Mocho-negro
+65	36	VULNERÁVEL	Aves	Nyctibiidae	Nyctibius grandis (Gmelin, 1789)	Mãe-da-lua-gigante
+66	37	VULNERÁVEL	Aves	Nyctibiidae	Nyctibius aethereus (Wied, 1820)	Mãe-da-lua-parda
+67	38	CRITICAMENTE EM PERIGO	Aves	Caprimulgidae	Caprimulgus hirundinaceus Spix, 1825	Bacurauzinho-da-caatinga
+68	39	EM PERIGO	Aves	Apodidae	Panyptila cayennensis (Gmelin, 1789)	Andorinhão-estofador
+69	40	EM PERIGO	Aves	Trochilidae	Ramphodon naevius (Dumont, 1818)	Beija-flor-grande-do-mato
+70	41	CRITICAMENTE EM PERIGO	Aves	Trochilidae	Glaucis dohrnii (Bourcier & Mulsant, 1852)	Balança-rabo-canela
+71	42	CRITICAMENTE EM PERIGO	Aves	Trochilidae	Phaethornis margarettae (Ruschi, 1972)	Besourão-de-rabo-branco
+72	43	CRITICAMENTE EM PERIGO	Aves	Trochilidae	Popelairia langsdorffi (Temminck, 1821)	Rabo-de-espinho
+73	44	EM PERIGO	Aves	Trogonidae	Trogon collaris Vieillot, 1817	Surucuá-de-coleira
+74	45	CRITICAMENTE EM PERIGO	Aves	Bucconidae	Notharchus swainsoni (Gray, 1846)	Capitão-do-mato
+75	46	CRITICAMENTE EM PERIGO	Aves	Bucconidae	Monasa morphoeus (Hahn & Küster, 1823)	Bico-de-brasa-de-testa-branca
+76	47	VULNERÁVEL	Aves	Bucconidae	Chelidoptera tenebrosa (Pallas, 1782)	Urubuzinho, Andorinha-do-mato
+77	48	CRITICAMENTE EM PERIGO	Aves	Picidae	Celeus flavus (Müller, 1766)	Pica-pau-amarelo
+78	49	CRITICAMENTE EM PERIGO	Aves	Picidae	Celeus torquatus (Boddaert, 1783)	Pica-pau-de-coleira
+79	50	VULNERÁVEL	Aves	Picidae	Melanerpes flavifrons (Vieillot, 1818)	Benetido-de-testa-amarela
+80	51	CRITICAMENTE EM PERIGO	Aves	Thamnophilidae	Thamnomanes caesius (Temminck, 1820)	Ipecuá
+81	52	EM PERIGO	Aves	Thamnophilidae	Myrmotherula urosticta (Sclater, 1857)	Choquinha-de-rabo-cintado
+82	53	VULNERÁVEL	Aves	Formicariidae	Formicarius colma Boddaert, 1783	Galinha-do-mato
+83	54	CRITICAMENTE EM PERIGO	Aves	Furnariidae	Sclerurus mexicanus Sclater, 1856	Vira-folha-de-peito-vermelho
+84	55	CRITICAMENTE EM PERIGO	Aves	Furnariidae	Sclerurus caudacutus (Vieillot, 1816)	Vira-folha-pardo
+85	56	VULNERÁVEL	Aves	Dendrocolaptidae	Glyphorinchus spirurus (Vieillot, 1819)	Arapaçu-de-bico-de-cunha
+86	57	CRITICAMENTE EM PERIGO	Aves	Dendrocolaptidae	Xiphorhynchus guttatus (Lichtenstein, 1820)	Arapaçu-de-garganta-amarela
+87	58	EM PERIGO	Aves	Tyrannidae	Corythopis delalandi (Lesson, 1831)	Estalador
+88	59	VULNERÁVEL	Aves	Tyrannidae	Rhynchocyclus olivaceus (Temminck, 1820)	Bico-chato-grande
+89	60	VULNERÁVEL	Aves	Tyrannidae	Platyrinchus leucoryphus Wied, 1831	Patinho-gigante
+90	61	VULNERÁVEL	Aves	Tyrannidae	Attila spadiceus (Gmelin, 1789)	Capitão-de-saíra-amarelo
+91	62	CRITICAMENTE EM PERIGO	Aves	Tyrannidae	Laniocera hypopyrra (Vieillot, 1817)	Chorona-cinza
+92	63	EM PERIGO	Aves	Pipridae	Chiroxiphia pareola (Linnaeus, 1766)	Tangará-falso
+93	64	VULNERÁVEL	Aves	Pipridae	Machaeropterus regulus (Hahn, 1819)	Tangará-rajado
+94	65	VULNERÁVEL	Aves	Pipridae	Neopelma aurifrons (Wied, 1831)	Fruxu-baiano
+95	66	VULNERÁVEL	Aves	Pipridae	Schiffornis turdina (Wied, 1831)	Flautim-marrom
+96	67	VULNERÁVEL	Aves	Cotingidae	Laniisoma elegans (Thunberg, 1823)	Chibante
+97	68	VULNERÁVEL	Aves	Cotingidae	Phibalura flavirostris (Vieillot, 1816)	Tesourinha-da-mata
+98	69	VULNERÁVEL	Aves	Cotingidae	Carpornis melanocephala (Wied, 1820)	Sabiá-pimenta
+99	70	CRITICAMENTE EM PERIGO	Aves	Cotingidae	Cotinga maculata (Müller, 1776)	Crejoá
+100	71	CRITICAMENTE EM PERIGO	Aves	Cotingidae	Xipholena atropurpurea (Wied, 1820)	Anambé-de-asa-branca
+101	72	EM PERIGO	Aves	Cotingidae	Lipaugus vociferans (Wied, 1820)	Cricrió, Tropeiro
+102	73	EM PERIGO	Aves	Muscicapidae	Cichlopsis leucogenys Cabanis, 1851	Sabiá-castanho
+103	74	VULNERÁVEL	Aves	Muscicapidae	Turdus fumigatus Lichtenstein, 1823	Sabiá-da-mata
+104	75	EM PERIGO	Aves	Mimidae	Mimus gilvus (Vieillot, 1808)	Sabiá-da-praia
+105	76	CRITICAMENTE EM PERIGO	Aves	Emberizidae	Phaeothlypis rivularis (Wied, 1821)	Pula-pula-ribeirinho
+106	77	CRITICAMENTE EM PERIGO	Aves	Emberizidae	Nemosia rourei Cabanis, 1870	Saíra-apunhalada
+107	78	CRITICAMENTE EM PERIGO	Aves	Emberizidae	Sporophila frontalis (Verreaux, 1869)	Pichochó, Catatau
+108	79	CRITICAMENTE EM PERIGO	Aves	Emberizidae	Sporophila falcirostris (Temminck, 1820)	Cigarra-verdadeira, Cigarrinha
+109	80	CRITICAMENTE EM PERIGO	Aves	Emberizidae	Oryzoborus angolensis (Linnaeus, 1766)	Curió, Avinhado
+110	81	CRITICAMENTE EM PERIGO	Aves	Emberizidae	Passerina brissonii (Linnaeus, 1758)	Azulão, Azulão-verdadeiro

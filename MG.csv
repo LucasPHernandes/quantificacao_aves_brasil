@@ -1,0 +1,114 @@
+Ordem,Família,Espécie,Nome Popular,Categoria de Ameaça
+Anseriformes,Anatidae,Mergus octosetaceus,Pato-mergulhão,CR
+Apodiformes,Trochilidae,Discosura langsdorffi,Rabo-deespinho,CR
+Apodiformes,Trochilidae,Glaucis dohrnii,Balançarabo-canela,CR
+Caprimulgiformes,Caprimulgidae,Macropsalis forcipata,Bacurau-tesoura-gigante,EN
+Caprimulgiformes,Caprimulgidae,Eleothreptus anomalus,Curiango-do-banhado,VU
+Caprimulgiformes,Nyctibiidae,Nyctibius leucopterus,Urutau-deasa-branca,CR
+Ciconiiformes,Ardeidae,Tigrisoma fasciatum,Socó-boi-escuro; socó-jararaca,CR
+Ciconiiformes,Ciconiidae,Jabiru mycteria,Jaburu; tuiuiú,EN
+Ciconiiformes,Ciconiidae,Mycteria americana,Cabeça-seca; jaburu,VU
+Ciconiiformes,Threskiornithidae,Platalea ajaja,Colhereiro,VU
+Columbiformes,Columbidae,Claravis godefrida,Pararu; pararu-espelho,CR
+Columbiformes,Columbidae,Geotrygon violacea,Juritivermelha,VU
+Cuculiformes,Cuculidae,Neomorphus geoffroyi,Jacu-estalo,CR
+Falconiformes,Accipitridae,Accipiter poliogaster,"Gaviãopintado, tauató-pintado",CR
+Falconiformes,Accipitridae,Harpia harpyja,"Gavião-real; uiraçu, harpia",CR
+Falconiformes,Accipitridae,Harpyhaliaetus coronatus,Águiacinzenta,EN
+Falconiformes,Accipitridae,Leucopternis lacernulatus,Gavião-pombo-pequeno,CR
+Falconiformes,Accipitridae,Leucopternis polionotus,Gaviãopombo-grande,CR
+Falconiformes,Accipitridae,Morphnus guianensis,Uiraçu-falso,CR
+Falconiformes,Accipitridae,Spizaetus melanoleucus,Gavião-pato,EN
+Falconiformes,Accipitridae,Spizaetus ornatus,Gavião-depenacho,EN
+Falconiformes,Accipitridae,Spizaetus tyrannus,Gavião-pegamacaco,EN
+Falconiformes,Falconidae,Falco deiroleucus,Falcão-de-peitolaranja,CR
+Galbuliformes,Bucconidae,Monasa morphoeus,Chorachuva-de-cara-branca,CR
+Galbuliformes,Bucconidae,Notharchus swainsoni,Macuru-debarriga-castanha,CR
+Galbuliformes,Galbulidae,Brachygalba lugubris,Ariramba-preta,CR
+Galliformes,Cracidae,Aburria jacutinga,Jacutinga,CR
+Galliformes,Cracidae,Crax blumenbachii,Mutum-do-sudeste; mutum-de-bico-vermelho,CR
+Galliformes,Cracidae,Crax fasciolata,Mutum-de-penacho,EN
+Galliformes,Cracidae,Penelope jacucaca,Jacucaca,EN
+Galliformes,Cracidae,Penelope ochrogaster,Jacu-de-barrigacastanha,CR
+Galliformes,Phasianidae,Odontophorus capueira,Uru; capueira,EN
+Gruiformes,Rallidae,Micropygia schomburgkii,Maxalalagá,EN
+Passeriformes,Cotingidae,Carpornis cucullata,Corocochó,EN
+Passeriformes,Cotingidae,Carpornis melanocephala,Sabiápimenta,CR
+Passeriformes,Cotingidae,Cotinga maculata,Crejoá; cotinga-crejoá,CR
+Passeriformes,Cotingidae,Phibalura flavirostris,Tesourinha-damata,VU
+Passeriformes,Cotingidae,Procnias nudicollis,Araponga;ferreiro,EN
+Passeriformes,Dendrocolaptidae,Xiphocolaptes falcirostris,Arapaçu-do-nordeste,EN
+Passeriformes,Emberizidae,Amaurospiza moesta,Negrinhodo-mato,VU
+Passeriformes,Emberizidae,Coryphaspiza melanotis,Ticotico-de-máscara-negra,EN
+Passeriformes,Emberizidae,Sporophila angolensis,Curió; avinhado,CR
+Passeriformes,Emberizidae,Sporophila falcirostris,Cigarraverdadeira,EN
+Passeriformes,Emberizidae,Sporophila frontalis,Pixoxó; chanchão,EN
+Passeriformes,Emberizidae,Sporophila maximiliani,Bicudo; bicudo-verdadeiro,CR
+Passeriformes,Emberizidae,Sporophila melanogaster,Caboclinho-de-barriga-preta,EN
+Passeriformes,Emberizidae,Sporophila palustris,Caboclinhode-papo-branco,CR
+Passeriformes,Emberizidae,Sporophila ruficollis,Caboclinhoparaguai; caboclinho-de-papo-escuro,VU
+Passeriformes,Formicariidae,Formicarius colma,Galinha-domato,VU
+Passeriformes,Fringillidae,Euphonia chalybea,Cais-cais,EN
+Passeriformes,Furnariidae,Acrobatornis fonsecai,Acrobata,CR
+Passeriformes,Furnariidae,Cichlocolaptes leucophrus,Trepador-sobrancelha,EN
+Passeriformes,Furnariidae,Synallaxis cinerea,João-baiano,VU
+Passeriformes,Furnariidae,Syndactyla dimidiata,Limpa-folhado-brejo,EN
+Passeriformes,Furnariidae,Thripophaga macroura,Rabo-amarelo,EN
+Passeriformes,Grallaridae,Grallaria varia,Tovacuçu,CR
+Passeriformes,Hirundinidae,Atticora melanoleuca,Andorinha-decoleira,CR
+Passeriformes,Icteridae,Curaeus forbesi,Anumará,CR
+Passeriformes,Motacillidae,Anthus nattereri,Caminheiro-grande,EN
+Passeriformes,Pipridae,Piprites chloris,Papinho-amarelo,VU
+Passeriformes,Pipridae,Piprites pileata,Caneleirinho-dechapéu-preto; caneleirinho-de-boné-preto,EN
+Passeriformes,Rhinocryptidae,Merulaxis stresemanni,Entufadobaiano,CR
+Passeriformes,Rhinocryptidae,Scytalopus novacapitalis,Macuquinho-de-brasília;tapaculo-de-brasília,VU
+Passeriformes,Scleruridae,Geositta poeciloptera,Andarilho,EN
+Passeriformes,Thamnophilidae,Biatas nigropectus,Papobranco,CR
+Passeriformes,Thamnophilidae,Drymophila genei,Choquinha-daserra,VU
+Passeriformes,Thamnophilidae,Dysithamnus plumbeus,Choquinha-chumbo,VU
+Passeriformes,Thamnophilidae,Myrmeciza ruficauda,Formigueiro De-cauda-ruiva,CR
+Passeriformes,Thamnophilidae,Myrmotherula minor,Choquinha-pequena,CR
+Passeriformes,Thamnophilidae,Myrmotherula urosticta,Choquinha-de-rabo-cintado,EN
+Passeriformes,Thamnophilidae,Rhopornis ardesiacus,Gravatazeiro,CR
+Passeriformes,Thamnophilidae,Thamnomanes caesius,Ipecuá,EN
+Passeriformes,Thraupidae,Nemosia rourei,Saíra-apunhalada,CR
+Passeriformes,Tityridae,Iodopleura pipra,Anambezinho,CR
+Passeriformes,Tityridae,Laniisoma elegans,Chibante,VU
+Passeriformes,Tityridae,Schiffornis turdina,Flautim-marrom,VU
+Passeriformes,Troglodytidae,Campylorhynchus turdinus,Catatau,CR
+Passeriformes,Turdidae,Cichlopsis leucogenys,Sabiá-castanho,CR
+Passeriformes,Tyrannidae,Alectrurus tricolor,Galito,EN
+Passeriformes,Tyrannidae,Conopias trivirgatus,Bem-te-vipequeno,CR
+Passeriformes,Tyrannidae,Culicivora caudacuta,Maria-docampo; papa-moscas-do-campo,VU
+Passeriformes,Tyrannidae,Euscarthmus rufomarginatus,Mariacorruíra,CR
+Passeriformes,Tyrannidae,Onycorhynchus swainsoni,Marialeque-do-sudeste,CR
+Passeriformes,Tyrannidae,Phylloscartes beckeri,Borboletinha-baiano,EN
+Passeriformes,Tyrannidae,Phylloscartes roquettei,Caradourada,EN
+Passeriformes,Tyrannidae,Phylloscartes sylviolus,Maria-pequena,EN
+Passeriformes,Tyrannidae,Rhynchocyclus olivaceus,Bicochato-grande,EN
+Passeriformes,Tyrannidae,Rhytipterna simplex,Vissiá,VU
+Passeriformes,Tyrannidae,Suiriri islerorum,Suiriri-da-chapada,VU
+Piciformes,Picidae,Celeus flavus,Pica-pau-amarelo,CR
+Piciformes,Picidae,Celeus torquatus,Pica-pau-decoleira-do-sudeste,CR
+Piciformes,Picidae,Melanerpes flavifrons,Benedito-de-testaamarela,VU
+Piciformes,Picidae,Veniliornis affinis,Picapauzinhoavermelhado,CR
+Piciformes,Ramphastidae,Pteroglossus bailloni,Araçari-banana,VU
+Piciformes,Ramphastidae,Pteroglossus castanotis,Araçaricastanho,EN
+Psittaciformes,Psittacidae,Amazona farinosa,Papagaiomoleiro,CR
+Psittaciformes,Psittacidae,Amazona rhodocorytha,Chauá; papagaio-do-espírito-santo,EN
+Psittaciformes,Psittacidae,Amazona vinacea,Papagaio-de-peitoroxo,VU
+Psittaciformes,Psittacidae,Anodorhynchus hyacinthinus,Araraazul-grande,CR
+Psittaciformes,Psittacidae,Ara ararauna,"Canindé; araracanindé, arara-azul e amarela",VU
+Psittaciformes,Psittacidae,Ara chloropterus,Arara-vermelha-grande,CR
+Psittaciformes,Psittacidae,Pionopsitta pileata,Cuiú-cuiú,EN
+Psittaciformes,Psittacidae,Pyrrhura cruentata,Fura-mato,CR
+Psittaciformes,Psittacidae,Pyrrhura leucotis,Tiriba-de-orelhabranca,CR
+Psittaciformes,Psittacidae,Touit surdus,Apuim-de-asa-amarela,CR
+Psittaciformes,Psittacidae,Triclaria malachitacea,Sabiá-cica,CR
+Strigiformes,Strigidae,Glaucidium minutissimum,Caburé-miudinho,VU
+Tinamiformes,Tinamidae,Crypturellus noctivagus,Jaódo-sul,EN
+Tinamiformes,Tinamidae,Crypturellus variegatus,Inhambuchororão; inhambu-anhangá,EN
+Tinamiformes,Tinamidae,Nothura minor,Codorna-mineira;codorna-buraqueira,EN
+Tinamiformes,Tinamidae,Taoniscus nanus,Inhambu-carapé,EN
+Tinamiformes,Tinamidae,Tinamus solitarius,Macuco,EN
+Trogoniformes,Trogonidae,Trogon collaris,Surucuá-de-coleira,CR

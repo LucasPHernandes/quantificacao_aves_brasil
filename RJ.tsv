@@ -1,0 +1,83 @@
+	Aves	Ordem	Familia	Especie	Autor	Nome Popular	Categoria
+Aves	Aves	Tinamiformes	Tinamidae	Tinamus solitarius	(Vieillot, 1819)	macuco	EP
+Aves	Aves	Tinamiformes	Tinamidae	Crypturellus variegatus	(Gmelin, 1789)	chororão	CP
+Aves	Aves	Tinamiformes	Tinamidae	Crypturellus noctivagus	(Wied, 1820)	jaó-do-sul	PE
+Aves	Aves	Pelicaniformes	Anhingidae	Anhinga anhinga	(Linnaeus, 1766)	biguatinga	VU
+Aves	Aves	Ciconiformes	Ardeidae	Tigrisoma fasciatum	(Such, 1825)	socó-boi-	PE
+Aves	Aves	Ciconiformes	Threskiornitidae	Eudocimus ruber	(Linnaeus,1758)	guará	CP
+Aves	Aves	Ciconiformes	Ciconidae	Ciconia maguari	(Gmelin, 1789)	maguari	VU
+Aves	Aves	Anseriformes	Anatidae	Cairina moschata	(Linnaeus, 1758)	pato-do-mato	VU
+Aves	Aves	Anseriformes	Anatidae	Dendrocygna bicolor	(Horsfield, 1824)	marreca- caneleira	VU
+Aves	Aves	Anseriformes	Anatidae	Sarkidiornis melanotos	(Pennant, 1769)	pato-de-crista	EP
+Aves	Aves	Cathartiformes	Cathartidae	Sarcoramphus papa	(Linnaeus, 1758)	urubu-rei	VU
+Aves	Aves	Falconiformes	Accipitridae	Accipiter poliogaster	(Temminck, 1824)	tauató- pintado	VU
+Aves	Aves	Falconiformes	Accipitridae	Leucopternis lacernulata	(Temminck, 1827)	gavião- pomba	VU
+Aves	Aves	Falconiformes	Accipitridae	Busarellus nigricollis	(Latham, 1790)	gavião-belo	VU
+Aves	Aves	Falconiformes	Accipitridae	Morphnus guianensis	(Daudin, 1800)	uiraçu-falso	PE
+Aves	Aves	Falconiformes	Accipitridae	Harpia harpyja	(Linnaeus, 1758)	gavião-real	EP
+Aves	Aves	Falconiformes	Accipitridae	Spizastur melanoleucus	(Vieillot, 1816)	gavião-pato	VU
+Aves	Aves	Falconiformes	Accipitridae	Spizaetus ornatus	(Daudin, 1801)	gavião-de- penacho	PE
+Aves	Aves	Falconiformes	Accipitridae	Falco deiroleucus	(Temminck, 1825)	falcão-de- peito- vermelho	PE
+Aves	Aves	Galliformes	Cracidae	Crax blumenbachii	(Spix, 1825)	mutum-do- sudeste.	PE
+Aves	Aves	Galliformes	Cracidae	Pipile jacutinga	(Spix, 1825)	jacutinga	PE
+Aves	Aves	Gruiformes	Rallidae	Heliornis fulica	(Boddaert, 1783)	picaparra	VU
+Aves	Aves	Charadriiformes	Laridae	Larus maculipennis	(Lichteinstein, 1823)	gaivota- maria-velha	PE
+Aves	Aves	Charadriiformes	Laridae	Phaetusa simplex	(Gmelin, 1789)	trinta-réis- grande	PE
+Aves	Aves	Columbiformes	Columbidae	Columba speciosa	(Gmelin, 1789)	pomba-trocal	VU
+Aves	Aves	Columbiformes	Columbidae	Claravis godefrida	(Temminck, 1811)	paruru	EP
+Aves	Aves	Psittaciformes	Psittacidae	Ara ararauna	(Linnaeus, 1758)	canindé	PE
+Aves	Aves	Psittaciformes	Psittacidae	Ara chloroptera	(Gray, 1859)	arara- vermelha- grande	PE
+Aves	Aves	Psittaciformes	Psittacidae	Aratinga auricapilla	(Kuhl, 1820)	jandaia-de- testa- vermelha	VU
+Aves	Aves	Psittaciformes	Psittacidae	Pyrrhura cruentata	(Wied, 1820)	fura-mato	EP
+Aves	Aves	Psittaciformes	Psittacidae	Pyrrhura leucotis	(Kuhl, 1820)	tiriba-de- orelha-branca	VU
+Aves	Aves	Psittaciformes	Psittacidae	Touit melanonota	(Wied, 1820)	apuim-de- cauda- vermelha	VU
+Aves	Aves	Psittaciformes	Psittacidae	Touit surda	(Kuhl, 1820)	apuim-de- cauda- amarela	VU
+Aves	Aves	Psittaciformes	Psittacidae	Amazona rhodocorytha	(Salvadori, 1890)	chauá	VU
+Aves	Aves	Psittaciformes	Psittacidae	Amazona vinacea	(Kuhl, 1820)	papagaio-de- peito-roxo	VU
+Aves	Aves	Psittaciformes	Psittacidae	Amazona farinosa	(Boddaert, 1783)	papagaio- moleiro	VU
+Aves	Aves	Psittaciformes	Psittacidae	Triclaria malachitacea	(Spix, 1824)	sabiá-cica	VU
+Aves	Aves	Cuculiformes	Cuculidae	Dromococcyx pavoninus	(Pelzeln, 1870)	peixe-frito- pavonino	PE
+Aves	Aves	Cuculiformes	Cuculidae	Neomorphus geoffroyi	(Temminck, 1820)	jacu-estalo	PE
+Aves	Aves	Caprimulgiformes	Nyctibidae	Nyctibius grandis	(Gmelin, 1788)	mãe-da-lua- gigante	VU
+Aves	Aves	Piciformes	Bucconidae	Monasa morphoeus	(Hahn & Küster, 1823)	bico-de- brasa-de-testa-branca	PE
+Aves	Aves	Piciformes	Bucconidae	Chelidoptera tenebrosa	(Pallas, 1782)	urubuzinho	EP
+Aves	Aves	Piciformes	Galbulidae	Jacamaralcyon tridactyla	(Vieillot, 1817)	cuitelão	VU
+Aves	Aves	Piciformes	Rhamphastidae	Pteroglossus aracari	(Linnaeus, 1758)	araçari-de- bico-	VU
+Aves	Aves	Piciformes	Picidae	Piculus chrysochlorus	(Vieillot, 1818)	pica-pau- dourado-escuro	PE
+Aves	Aves	Passeriformes	Formicariidae	Dysithamnus plumbeus	(Wied, 1831)	choquinha- chumbo	EP
+Aves	Aves	Passeriformes	Formicariidae	Myrmotherula minor	(Salvadori, 1867)	choquinha- pequena	VU
+Aves	Aves	Passeriformes	Formicariidae	Myrmotherula urosticta	(Sclater, 1857)	choquinha- de-rabo-cintado	VU
+Aves	Aves	Passeriformes	Formicariidae	Formicivora littoralis	(Gonzaga & Pacheco, 1990)	formigueiro- do-litoral	VU
+Aves	Aves	Passeriformes	Formicariidae	Formicivora erythronotus	(Hartlaub, 1852)	formigueiro- de-cabeça-negra	VU
+Aves	Aves	Passeriformes	Furnariidae	Thripophaga macroura	(Wied, 1821)	rabo-amarelo	EP
+Aves	Aves	Passeriformes	Furnariidae	Sclerurus mexicanus	(Sclater, 1857)	vira-folha-de- peito-vermelho	VU
+Aves	Aves	Passeriformes	Dendrocolaptidae	Xiphorhynchus picus	(Gmelin, 1788)	arapaçu-de- bico-branco	VU
+Aves	Aves	Passeriformes	Tyrannidae	Onychorhynchus coronatus	(Müller, 1776)	maria-leque	VU
+Aves	Aves	Passeriformes	Tyrannidae	Ornithion inerme	(Hartlaub, 1853)	poaieiro-de- sombrancelha	VU
+Aves	Aves	Passeriformes	Tyrannidae	Phylloscartes oustaleti	(Sclater,	papa-	VU
+Aves	Aves	Passeriformes	Tyrannidae	Phylloscartes sylviolus	(Cabanis & Heine, 1859)	papa-moscas	VU
+Aves	Aves	Passeriformes	Tyrannidae	Rhynchocyclus olivaceus	(Temminck, 1820)	bico-chato- grande	VU
+Aves	Aves	Passeriformes	Tyrannidae	Platyrinchus leucoryphus	(Wied, 1831)	patinho- gigante	VU
+Aves	Aves	Passeriformes	Pipridae	Pipra rubrocapilla	( Temminck, 1821)	cabeça- encarnada	VU
+Aves	Aves	Passeriformes	Pipridae	Pipra pipra	(Linnaeus, 1758)	cabeça- branca	VU
+Aves	Aves	Passeriformes	Pipridae	Neopelma aurifrons	(Wied, 1831)	fruxu-baiano	EP
+Aves	Aves	Passeriformes	Cotingidae	Pyroderus scutatus	(Shaw, 1792)	pavão-do- mato	VU
+Aves	Aves	Passeriformes	Cotingidae	Carpornis melanocephalus	(Wied, 1820)	sabiá-pimenta	VU
+Aves	Aves	Passeriformes	Cotingidae	Cotinga maculata	(P.L.S. Müller, 1776)	crejoá	PE
+Aves	Aves	Passeriformes	Cotingidae	Xipholena atropurpurea	(Wied, 1820)	anambé-de- asa-branca	EP
+Aves	Aves	Passeriformes	Cotingidae	Lipaugus lanioides	(Lesson, 1844)	tropeiro-da- serra	VU
+Aves	Aves	Passeriformes	Cotingidae	Piprites pileatus	(Temminck, 1822)	canaleirinho- de-chapéu- preto	VU
+Aves	Aves	Passeriformes	Muscicapidae	Ramphocaenus melanurus	( Vieillot, 1819)	bico- assovelado	VU
+Aves	Aves	Passeriformes	Muscicapidae	Polioptila lactea	( Sharpe, 1885 )	balança-rabo- leitos	PE
+Aves	Aves	Passeriformes	Mimidae	Mimus gilvus (Vieillot, 1807)	(Vieillot, 1807)	sabiá-da- praia	EP
+Aves	Aves	Passeriformes	Emberezidae	Schistochlamys melanopis	(Latham, 1790)	sanhaço-de- coleira	PE
+Aves	Aves	Passeriformes	Emberezidae	Tangara velia	(Linnaeus, 1758)	saíra- diamante	PE
+Aves	Aves	Passeriformes	Emberezidae	Tangara mexicana	(Linnaeus, 1766)	cambada-de- chaves	VU
+Aves	Aves	Passeriformes	Emberezidae	Chlorophanes spiza	(Linnaeus, 1758)	saí-verde	VU
+Aves	Aves	Passeriformes	Emberezidae	Sporophyla frontalis	(Verreaux, 1869)	pichochó	EP
+Aves	Aves	Passeriformes	Emberezidae	Sporophyla falcirostris	(Temminck, 1820)	cigarra- verdadeira	EP
+Aves	Aves	Passeriformes	Emberezidae	Sporophyla collaris	(Boddaert, 1783)	coleiro-do- brejo	EP
+Aves	Aves	Passeriformes	Emberezidae	Oryzoborus maximiliani	(Cabanis, 1851)	bicudo	PE
+Aves	Aves	Passeriformes	Emberezidae	Oryzoborus angolensis	(Linnaeus, 1766)	curió	VU
+Aves	Aves	Passeriformes	Emberezidae	Amaurospiza moesta	(Hartlaub, 1853)	negrinho-do- mato	VU
+Aves	Aves	Passeriformes	Emberezidae	Passerina brissonii	(Lichtenstein, 1823)	azulão	VU

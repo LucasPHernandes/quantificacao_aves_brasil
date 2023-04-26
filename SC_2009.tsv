@@ -1,0 +1,98 @@
+ N  	 Categoria  	 Grupo  	 Família  	 Espécie  	 Nome comum  	 Critérios da IUCN  
+ 23  	 CR 	 Aves  	 Cracidae  	 Aburria jacutinga  	 jacutinga  	 B1ab(i,ii,iii); C2(ii)  
+ 24  	 CR 	 Aves  	 Diomedeidae  	 Diomedea dabbenena  	 albatroz-de-tristão 	 A4ade  
+ 25  	 CR 	 Aves  	 Ardeidae  	 Tigrisoma fasciatum  	 socó-boi-escuro  	 A2ace; B2b(i,ii,iii,iv)  
+ 26  	 CR 	 Aves  	 Threskiornitidae  	 Eudocimus ruber  	 Guará 	 D1  
+ 27  	 CR 	 Aves  	 Accipitridae  	 Accipiter poliogaster  	 tauató-pintado 	 B1ab(iii)  
+ 28  	 CR 	 Aves  	 Accipitridae  	 Harpyhaliaetus coronatus  	 Águia-cinzenta  	 B1b(i,ii,iii,iv,v); C1  
+ 29  	 CR 	 Aves  	 Accipitridae  	 Morphnus guianensis  	 uiraçu-falso  	 B1a(i,ii,iii,iv,v); C1+2a(i); D  
+ 30  	 CR 	 Aves  	 Accipitridae  	 Harpia harpyja  	 gavião-real  	 B1a(i,ii,iii,iv,v); C1+2a(i); D  
+ 31  	 CR 	 Aves  	 Accipitridae  	 Spizaetus ornatus  	 gavião-de-penacho 	 A2c; C2a(i)  
+ 32  	 CR 	 Aves  	 Falconidae  	 Falco deiroleucus  	 falcão-de-peito-laranja  	 B1ab(i,iv); C2a(i)  
+ 33  	 CR 	 Aves  	 Heliornithidae  	 Heliornis fulica  	 picaparra  	 B1ab(iii,iv); C2a(i); D  
+ 34  	 CR 	 Aves  	 Columbidae  	 Claravis godefrida  	 pararu-espelho  	 B1ab(i,ii,iii,iv); C2a(ii)  
+ 35  	 CR  	 Aves  	 Psittacidae  	 Primolius maracana  	 maracanã-verdadeira  	 A2acd; C2a(i)  
+ 36  	 CR  	 Aves  	 Psittacidae  	 Touit melanonotus  	 apuim-de-costas-pretas  	 B1b(i,iii,iv)  
+ 37  	 CR  	 Aves  	 Psittacidae  	 Amazona brasiliensis  	 papagaio-de-cara-roxa  	 A2acd; B1ab(i,ii,iii,iv,v)+2 ab(i,ii,iii,iv,v); C2a(i-ii); D  
+ 38  	 CR 	 Aves  	 Ramphastidae  	 Pteroglossus aracari  	 araçari-de-bico-branco  	 B1ab(i,iii,iv); C2a(ii)  
+ 39  	 CR 	 Aves  	 Ramphastidae  	 Pteroglossus castanotis  	 araçari-castanho  	 B1ab(i,iii,iv); C2a(ii)  
+ 40  	 CR 	 Aves  	 Thamnophilidae  	 Stymphalornis acutirostris  	 bicudinho-do-brejo 	 B2ab(ii,iii)  
+ 41  	 CR 	 Aves  	 Furnariidae  	 Limnoctites rectirostris  	 junqueiro-de-bico-reto  	 A3ce; B1ab(iii)  
+ 42  	 CR 	 Aves  	 Tyrannidae  	 Polystictus pectoralis  	 papa-moscas-canela  	 B2ab(iii)  
+ 43  	 CR 	 Aves  	 Tyrannidae  	 Phylloscartes eximius  	 barbudinho  	 A2ac; B1ab(i,ii,iii,iv)  
+ 44  	 CR 	 Aves  	 Tyrannidae  	 Culicivora caudacuta  	 papa-moscas-do-campo  	 B1ab(iii)  
+ 45  	 CR 	 Aves  	 Tyrannidae  	 Onychorhynchus swainsoni  	 maria-leque-do-sudeste  	 B1ab(i,ii,iii,iv)  
+ 46  	 CR 	 Aves  	 Trogloditydae  	 Cistothorus platensis  	 corruíra-do-campo  	 A2ace; B1ab(i,ii,iii,iv)  
+ 47  	 CR 	 Aves  	 Emberizidae  	 Sporophila plumbea  	 Patativa  	 A3cd; B2b(iii)  
+ 48  	 CR 	 Aves  	 Emberizidae  	 Sporophila cinnamomea  	 caboclinho-de-chapéu-cinzento  	 B2ab(iii)  
+ 49  	 CR 	 Aves  	 Emberizidae  	 Sporophila angolensis  	 Curió  	 A2ad; B2ab(i,ii,iv,v); D1  
+ 50  	 CR 	 Aves  	 Icteridae  	 Xanthopsar flavus  	 veste-amarela 	 A2ace  
+ 51  	 EN  	 Aves  	 Tinamidae  	 Crypturellus noctivagus  	 jaó-do-sul  	 A4acd; B1b(i,ii,iii,iv)  
+ 52  	 EN  	 Aves  	 Diomedeidae  	 Thalassarche chlororhynchos  	 albatroz-de-nariz-amarelo  	 A4bd; B2ab(v)  
+ 53  	 EN  	 Aves  	 Diomedeidae  	 Thalassarche melanophris  	 albatroz-de-sobrancelha  	 A4bd  
+ 54  	 EN  	 Aves  	 Diomedeidae  	 Diomedea sanfordi  	 albatroz-real-do-norte  	 A4bcd; B2ab(iii,v)  
+ 55  	 EN  	 Aves  	 Procellariidae  	 Pterodroma incerta  	 grazina-de-barriga-branca  	 B2ab(v)  
+ 56  	 EN  	 Aves  	 Accipitridae  	 Spizaetus melanoleucus  	 gavião-pato 	 A4ac; C2a(ii)  
+ 57  	 EN  	 Aves  	 Psittacidae  	 Amazona vinacea  	 papagaio-de-peito-roxo  	 C2a(i)  
+ 58  	 EN  	 Aves  	 Psittacidae  	 Amazona pretrei  	 papagaio-charão  	 B1ab(i,ii,iii,iv,v); C2a(ii)  
+ 59  	 EN  	 Aves  	 Strigidae  	 Strix huhula  	 coruja-preta 	 B1ab(iii,iv)  
+ 60  	 EN  	 Aves  	 Caprimulgidae  	 Eleothreptus anomalus  	 curiango-do-banhado  	 B1ab(iii)  
+ 61  	 EN  	 Aves  	 Trogonidae  	 Trogon viridis  	 surucuá-grande-de-barriga-amarela  	 B1ab(i,ii,iii,iv)  
+ 62  	 EN  	 Aves  	 Alcedinidae  	 Chloroceryle inda  	 martim-pescador-da-mata  	 B1ab(i,ii,iv); C2a(ii)  
+ 63  	 EN  	 Aves  	 Thamnophilidae  	 Drymophila squamata  	 pintadinho 	 B1ab(iii)  
+ 64  	 EN  	 Aves  	 Rhinocryptidae  	 Scytalopus iraiensis  	 macuquinho-da-várzea  	 B1ab(iii)  
+ 65  	 EN  	 Aves  	 Rhinocryptidae  	 Scytalopus pachecoi  	 tapaculo-ferreirinho 	 B2ab(ii,iii,iv)  
+ 66  	 EN  	 Aves  	 Tyrannidae  	 Corythopis delalandi  	 estalador 	 A2c; B2b(ii,iii)  
+ 67  	 EN  	 Aves  	 Tyrannidae  	 Hemitriccus diops  	 olho-falso  	 A2c; B2ab(i,ii,iii,iv)  
+ 68  	 EN  	 Aves  	 Tyrannidae  	 Phylloscartes difficilis  	 estalinho 	 B1ab(i,iii)  
+ 69  	 EN  	 Aves  	 Tyrannidae  	 Phylloscartes sylviolus  	 Maria-pequena  	 A2ac; B1ab(i,iii,iv)  
+ 70  	 EN  	 Aves  	 Tyrannidae  	 Myiobius barbatus  	 assanhadinho 	 B1ab(iii)  
+ 71  	 EN  	 Aves  	 Tyrannidae  	 Xolmis dominicanus  	 noivinha-de-rabo-preto  	 A2ace; B2(ii,iii)  
+ 72  	 EN  	 Aves  	 Cotingidae  	 Phibalura flavirostris  	 tesourinha-da-mata  	 B1ab(i,ii,iii,iv)  
+ 73  	 EN  	 Aves  	 Cotingidae  	 Carpornis melanocephala  	 Sabiá-pimenta 	 B1ab(i,iii,iv,iv)  
+ 74  	 EN  	 Aves  	 Cotingidae  	 Lipaugus lanioides  	 tropeiro-da-serra  	 A2c; B2ab(ii,iii)  
+ 75  	 EN  	 Aves  	 Cotingidae  	 Pyroderus scutatus  	 Pavó  	 A2cd; B2ab(i,ii,iii,iv)  
+ 76  	 EN  	 Aves  	 Cotingidae  	 Piprites pileata  	 caneleirinho-de-chapéu-preto  	 A2ac; B1ab(i,ii,iii,iv,v)  
+ 77  	 EN  	 Aves  	 Motacilidae  	 Anthus nattereri  	 caminheiro-grande 	 B2ab(iii)  
+ 78  	 EN  	 Aves  	 Thraupidae  	 Cissopis leverianus  	 Tietinga  	 A2c; B1ab(i,ii,iii,iv)  
+ 79  	 EN  	 Aves  	 Thraupidae  	 Tachyphonus cristatus  	 tiê-galo 	 B1ab(iii)  
+ 80  	 EN  	 Aves  	 Thraupidae  	 Tangara peruviana  	 Saíra-sapucaia 	 B1ab(i,ii,iii,iv)  
+ 81  	 EN  	 Aves  	 Emberizidae  	 Sporophila falcirostris  	 cigarra-verdadeira  	 A4cd;  
+ 82  	 VU  	 Aves  	 Tinamidae  	 Tinamus solitarius  	 Macuco  	 A4cd; B1b(i,ii,iii)  
+ 83  	 VU  	 Aves  	 Cracidae  	 Penelope superciliaris  	 jacupemba 	 A2acd; B1b(iii)  
+ 84  	 VU  	 Aves  	 Diomedeidae  	 Thalassarche chrysostoma  	 albatroz-de-cabeça-cinza  	 A4bd  
+ 85  	 VU  	 Aves  	 Diomedeidae  	 Diomedea epomophora  	 albatroz-real 	 D2  
+ 86  	 VU  	 Aves  	 Diomedeidae  	 Diomedea exulans  	 albatroz-gigante  	 A4bd  
+ 87  	 VU  	 Aves  	 Procellariidae  	 Procellaria aequinoctialis  	 pardela-preta 	 A4bcde  
+ 88  	 VU  	 Aves  	 Procellariidae  	 Procellaria conspicillata  	 pardela-de-óculos 	 D2  
+ 89  	 VU  	 Aves  	 Accipitridae  	 Accipiter superciliosus  	 gavião-miudinho  	 B1ab(iii)  
+ 90  	 VU  	 Aves  	 Accipitridae  	 Leucopternis lacernulatus  	 gavião-pombo-pequeno  	 B1ab(ii,iii)  
+ 91  	 VU  	 Aves  	 Accipitridae  	 Buteo melanoleucus  	 águia-chilena 	 B1ab(i,ii,iii)  
+ 92  	 VU  	 Aves  	 Accipitridae  	 Spizaetus tyrannus  	 gavião-pega-macaco  	 C2a(i)  
+ 93  	 VU  	 Aves  	 Rallidae  	 Rallus longirostris  	 saracura-matraca  	 A2ce; B1ab(ii,iii); D2  
+ 94  	 VU  	 Aves  	 Scolopacidae  	 Gallinago undulata  	 narcejão 	 B1ab(iii)  
+ 95  	 VU  	 Aves  	 Sternidae  	 Thalasseus maximus  	 trinta-réis-real 	 B1b(iii,v)  
+ 96  	 VU  	 Aves  	 Psittacidae  	 Triclaria malachitacea  	 sabiá-cica 	 B1b(iii)  
+ 97  	 VU  	 Aves  	 Cuculidae  	 Crotophaga major  	 anu-coroca 	 B2ab(i,ii,iii)  
+ 98  	 VU  	 Aves  	 Strigidae  	 Asio flammeus  	 mocho-dos-banhados  	 B1ab(iii)  
+ 99  	 VU  	 Aves  	 Alcedinidae  	 Chloroceryle aenea  	 martinho 	 B1ab(ii,iii,iv)  
+ 100  	 VU  	 Aves  	 Bucconidae  	 Notharchus swainsoni  	 macuru-de-barriga-castanha  	 B1ab(ii,iii)  
+ 101  	 VU  	 Aves  	 Picidae  	 Piculus flavigula  	 pica-pau-bufador  	 B1ab(iii)  
+ 102  	 VU  	 Aves  	 Picidae  	 Dryocopus galeatus  	 pica-pau-de-cara-canela  	 B1ab(i,ii,iii,iv)  
+ 103  	 VU  	 Aves  	 Thamnophilidae  	 Thannophilidae nigropectus  	 papo-branco 	 A2ac; B1ab(iii)  
+ 104  	 VU  	 Aves  	 Rhinocryptidae  	 Merulaxis ater  	 entufado 	 B1ab(iii)  
+ 105  	 VU  	 Aves  	 Scleruridae  	 Geositta cunicularia  	 curriqueiro 	 A2c; B2ab(ii,iii)  
+ 106  	 VU  	 Aves  	 Furnariidae  	 Cinclodes pabsti  	 Pedreiro 	 A3ce; B1b(ii,iii)  
+ 107  	 VU  	 Aves  	 Furnariidae  	 Phacellodomus striaticollis  	 tio-tio 	 B1ab(iii)  
+ 108  	 VU  	 Aves  	 Tyrannidae  	 Hemitriccus kaempferi  	 maria-catarinense  	 A4c; C2a(i)  
+ 109  	 VU  	 Aves  	 Tyrannidae  	 Phylloscartes oustaleti  	 papa-moscas-de-olheiras  	 A2ac; B1ab(i,iii,iv)  
+ 110  	 VU  	 Aves  	 Tyrannidae  	 Tachuris rubrigastra  	 papa-piri 	 B2ab(iii)  
+ 111  	 VU  	 Aves  	 Tyrannidae  	 Platyrinchus leucoryphus  	 patinho-gigante  	 B1ab(i,iii)  
+ 112  	 VU  	 Aves  	 Tyrannidae  	 Myiobius atricaudus  	 assanhadinho-de-cauda-preta  	 B1ab(iii)  
+ 113  	 VU  	 Aves  	 Polioptilidae  	 Polioptila lactea  	 balança-rabo-leitoso  	 B1ab(i,iii)  
+ 114  	 VU  	 Aves  	 Thraupidae  	 Saltator fuliginosus  	 pimentão 	 A2acd  
+ 115  	 VU  	 Aves  	 Thraupidae  	 Ramphocelus bresilius  	 tiê-sangue 	 A2acd  
+ 116  	 VU  	 Aves  	 Thraupidae  	 Conirostrum bicolor  	 figuinha-do-mangue 	 B2ab(ii,iii)  
+ 117  	 VU  	 Aves  	 Emberizidae  	 Sporophila frontalis  	 Pixoxó 	 A4cd; C2b  
+ 118  	 VU  	 Aves  	 Emberizidae  	 Sporophila hypoxantha  	 caboclinho-de-barriga-vermelha  	 A2acd  
+ 119  	 VU  	 Aves  	 Emberizidae  	 Sporophila melanogaster  	 caboclinho-de-barriga-preta  	 A2acd  
