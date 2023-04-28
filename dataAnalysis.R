@@ -468,8 +468,31 @@ RJ$LINK <- "http://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.
 
 # FIM BLOCO RIO DE JANEIRO (RJ)
 
+lista_global <- read.csv("lista_global.csv", sep = ",", encoding = "UTF-8", stringsAsFactors = FALSE)
+lista_global$NIVEL <- "Global"
+lista_global$ANO <- 2023
+lista_global$FONTE <- "BirdLife"
+lista_global$LINK <- "http://datazone.birdlife.org/species/results?thrlev1=&thrlev2=&kw=&fam=0&gen=0&spc=&cmn=&reg=11&cty=30"
+lista_global$CATEGORIA_AMEACA <- lista_global$Global.IUCN.Red.List.Category
+
+
+
+lista_nacional <- read.csv("Lista_nacional.tsv", sep = "\t", encoding = "UTF-8", stringsAsFactors = FALSE)
+lista_nacional <- rename(lista_nacional, TAXON = Amadonastur.lacernulatus, CATEGORIA_AMEACA = VU)
+lista_nacional$CBRO_2021 <- names_CBRO$CBRO[match(lista_nacional$TAXON, names_CBRO$Nomes)]
+lista_nacional$NIVEL <- "Brasil"
+lista_nacional$ANO <- 2022
+lista_nacional$FONTE <- "PORTARIA GM/MMA Nº 300, DE 13 DE DEZEMBRO DE 2022"
+lista_nacional$LINK <- "https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-300-de-13-de-dezembro-de-2022-450425464"
+
 
 # SELECTS
+
+lista_global <- lista_global %>%
+  select(TAXON, CBRO_2021, CATEGORIA_AMEACA, NIVEL, ANO, FONTE, LINK)
+
+lista_nacional <- lista_nacional %>%
+  select(TAXON, CBRO_2021, CATEGORIA_AMEACA, NIVEL, ANO, FONTE, LINK)
 
 RJ <- RJ%>%
   select(TAXON, CBRO_2021, CATEGORIA_AMEACA, NIVEL, ANO, FONTE, LINK)
