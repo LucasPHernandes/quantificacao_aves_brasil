@@ -1,0 +1,235 @@
+Geral		Nome cientifico	Nome Popular	Categoria de Ameaca
+111		Tinamus tao (Temminck, 1815)	Azulona	VU
+112	*	Crypturellus noctivagus noctivagus (Wied, 1820)	Jaó-do-sul	VU
+113		Crypturellus noctivagus zabele (Spix, 1825)	Zabelê	VU
+114	*	Nothura minor (Spix, 1825)	Codorna-mineira	EN
+115	*	Taoniscus nanus (Temminck, 1815)	Inhambu-carapé	EN
+116	*	Mergus octosetaceus (Vieillot, 1817)	Pato-mergulhão	CR
+117	*	Penelope superciliaris alagoensis (Nardelli, 1993)	Jacupemba	CR
+118	*	Penelope ochrogaster (Pelzeln, 1870)	Jacu-de-barriga-castanha	VU
+119		Penelope pileata (Wagler, 1830)	Jacupiranga	VU
+120	*	Penelope jacucaca (Spix, 1825)	Jacucaca	VU
+121	*	Aburria jacutinga (Spix, 1825)	Jacutinga	EN
+122		Ortalis guttata remota (Pinto, 1960)	Aracuã	CR
+123	*	Crax blumenbachii (Spix, 1825)	Mutum-de-bico-vermelho	CR
+124		Crax globulosa (Spix, 1825)	Mutum-de-fava	EN
+125	*	Crax fasciolata pinima (Pelzeln, 1870)	Mutum-pinima	CR
+126	*	Pauxi mitu (Linnaeus, 1766)	Mutum-do-nordeste	EW
+127	*	Odontophorus capueira plumbeicollis (Cory, 1915)	Uru	CR
+128	*	Diomedea dabbenena (Mathews, 1929)	Albatroz-de-tristão	CR
+129	*	Diomedea epomophora (Lesson, 1825)	Albatroz-real	VU
+130	*	Diomedea exulans (Linnaeus, 1758)	Albatroz-errante	CR
+131	*	Diomedea sanfordi (Murphy, 1917)	Albatroz-real-do-norte	EN
+132	*	Thalassarche chlororhynchos (Gmelin, 1789)	Albatroz-de-nariz-amarelo	EN
+133	*	Procellaria aequinoctialis (Linnaeus, 1758)	Pardela-preta	VU
+134	*	Procellaria conspicillata (Gould, 1844)	Pardela-de-óculos	VU
+135	*	Pterodroma arminjoniana (Giglioli & Salvatori, 1869)	Grazina-de-trindade	CR
+136		Pterodroma deserta (Mathews, 1934)	Grazina-de-desertas	CR
+137	*	Pterodroma incerta (Schlegel, 1863)	Grazina-de-barrigabranca	EN
+138		Pterodroma madeira (Mathews, 1934)	Grazina-da-madeira	EN
+139	*	Puffinus lherminieri (Lesson, 1839)	Pardela de asa-larga	CR
+140	*	Phaethon aethereus (Linnaeus, 1758)	Rabo-de-palha-de-bicovermelho	EN
+141	*	Phaethon lepturus (Daudin, 1802)	Rabo-de-palha-de-bicolaranja	EN
+142	*	Fregata ariel (Gray, 1845)	Tesourão-pequeno	CR
+143	*	Fregata minor (Gmelin, 1789)	Tesourão-grande	CR
+144		Sula sula (Linnaeus, 1766)	Atobá-de-pé-vermelho	EN
+145	*	Tigrisoma fasciatum (Such, 1825)	Socó-boi-escuro	VU
+146	*	Amadonastur lacernulatus (Temminck, 1827)	Gavião-pombo-pequeno	VU
+147		Leptodon forbesi (Swann, 1922)	Gavião-de-pescoçobranco	EN
+148		Morphnus guianensis (Daudin, 1800)	Uiraçu-falso	VU
+149		Harpia harpyja (Linnaeus, 1758)	Gavião-real	VU
+150	*	Urubitinga coronata (Vieillot, 1817)	Águia-cinzenta	EN
+151	*	Circus cinereus (Vieillot, 1816)	Gavião-cinza	VU
+152		Psophia dextralis (Conover, 1934)	Jacamim-de-costas-marrons	VU
+153		Psophia interjecta (Griscom & Greenway, 1937)	jacamim-do-xingu	VU
+154	*	Psophia obscura (Pelzeln, 1857)	Jacamim-de-costas-escuras	CR
+155	*	Porzana spiloptera (Durnford, 1877)	Sanã-cinza	EN
+156		Charadrius wilsonia (Ord, 1814)	Batuíra-bicuda	VU
+157		Limnodromus griseus (Gmelin, 1789)	Maçarico-de-costasbrancas	CR
+158		Calidris canutus (Linnaeus, 1758)	Maçarico-de-papo-vermelho	CR
+159		Calidris pusilla (Linnaeus, 1766)	Maçarico-rasteirinho	EN
+160		Calidris subruficollis (Vieillot, 1819)	Maçarico-acanelado	VU
+161		Sterna dougallii (Montagu, 1813)	Trinta-réis-róseo	VU
+162		Sterna hirundinacea (Lesson, 1831)	Trinta-réis-de-bico-vermelho	VU
+163	*	Thalasseus maximus (Boddaert, 1783)	Trinta-réis-real	EN
+164	*	Claravis geoffroyi (Temminck, 1811)	Pararu-espelho	CR (PEX)
+165	*	Columbina cyanopis (Pelzeln, 1870)	Rolinha-do-planalto	CR (PEX)
+166		Neomorphus geoffroyi (Temminck, 1820)	Jacu-estalo	VU
+167		Neomorphus geoffroyi amazonicus (Pinto, 1964)	Jacu-estalo	VU
+168	*	Neomorphus geoffroyi dulcis (Snethlage, 1927)	Jacu-estalo	CR
+169		Neomorphus geoffroyi geoffroyi (Temminck, 1820)	Jacu-estalo	CR (PEX)
+170		Neomorphus squamiger (Todd, 1925)	Jacu-estalo-escamoso	VU
+171		Pulsatrix perspicillata pulsatrix (Wied, 1820)	Murucututu	VU
+172		Strix huhula albomarginata (Spix, 1824)	Coruja-preta	VU
+173		Nyctibius aethereus aethereus (Wied, 1820)	Mãe-da-lua-parda	EN
+174		Nyctibius leucopterus (Wied, 1821)	Urutau-de-asa-branca	CR
+175	*	Hydropsalis candicans (Pelzeln, 1867)	Bacurau-de-rabo-branco	VU
+176		Phaethornis aethopygus (Zimmer, 1950)	Rabo-branco-de-garganta-escura	VU
+177		Phaethornis bourcieri major (Hinkelmann, 1989)	Rabo-branco-de-bicoreto	VU
+178	*	Phaethornis margarettae (Ruschi, 1972)	Rabo-branco-de-margarette	EN
+179	*	Phaethornis margarettae camargoi (Grantsau, 1988)	Rabo-branco-de-margarette	CR
+180	*	Discosura langsdorffi langsdorffi (Temminck, 1821)	Rabo-de-espinho	EN
+181	*	Glaucis dohrnii (Bourcier & Mulsant, 1852)	Balança-rabo-canela	EN
+182		Lophornis gouldii (Lesson, 1832)	Topetinho-do-brasilcentral	VU
+183	*	Thalurania watertonii (Bourcier, 1847)	Beija-flor-de-costasvioletas	EN
+184		Augastes lumachella (Lesson, 1838)	Beija-flor-de-gravatavermelha	EN
+185		Trogon collaris eytoni (Fraser, 1837)	Surucuá-de-coleira	EN
+186	*	Momotus momota marcgraviana (Pinto & Camargo,1961)	Udu-de-coroa-azul-donordeste	EN
+187		Monasa morphoeus morphoeus (Hahn & Küster, 1823)	Chora-chuva-de-carabranca	EN
+188		Capito dayi (Cherrie, 1916)	Capitão-de-cinta	VU
+189		Selenidera gouldii baturitensis (Pinto & Camargo, 1961)	Saripoca-de-gould	EN
+190	*	Pteroglossus bitorquatus bitorquatus (Vigors, 1826)	Araçari-de-pescoço-vermelho	VU
+191		Picumnus varzeae (Snethlage, 1912)	Pica-pau-anão-da-várzea	EN
+192	*	Piculus polyzonus (Valenciennes, 1826)	Pica-pau-dourado-escuro-do-sudeste	EN
+193		Piculus paraensis (Snethlage, 1907)	Pica-pau-dourado-debelém	EN
+194		Celeus flavus subflavus (Sclater & Salvin, 1877)	Pica-pau-amarelo	CR
+195		Celeus obrieni (Short, 1973)	Pica-pau-do-parnaíba	VU
+196		Celeus torquatus pieteroyensi (Oren, 1992)	Pica-pau-de-coleira	EN
+197	*	Celeus torquatus tinnunculus (Wagler, 1829)	Pica-pau-de-coleira	VU
+198	*	Dryocopus galeatus (Temminck, 1822)	Pica-pau-de-cara-canela	EN
+199	*	Anodorhynchus leari (Bonaparte, 1856)	Arara-azul-de-lear	EN
+200	*	Cyanopsitta spixii (Wagler, 1832)	Ararinha-azul	CR (PEW)
+201	*	Guaruba guarouba (Gmelin, 1788)	Ararajuba	VU
+202		Aratinga solstitialis (Linnaeus, 1766)	Jandaia-amarela	EN
+203	*	Pyrrhura cruentata (Wied, 1820)	Tiriba-grande	VU
+204		Pyrrhura lepida (Wagler, 1832)	Tiriba-pérola	VU
+205	*	Pyrrhura lepida lepida (Wagler, 1832)	Tiriba-pérola	VU
+206	*	Pyrrhura griseipectus (Salvadori, 1900)	Tiriba-de-peito-cinza	EN
+207	*	Pyrrhura leucotis (Kuhl, 1820)	Tiriba-de-orelha-branca	VU
+208	*	Pyrrhura pfrimeri (Miranda-Ribeiro, 1920)	Tiriba-de-pfrimer	EN
+209	*	Touit melanonotus (Wied, 1820)	Apuim-de-costas-pretas	VU
+210		Touit surdus (Kuhl, 1820)	Apuim-de-cauda-amarela	VU
+211		Pionus reichenowi (Heine, 1844)	Maitaca-de-barriga-azul	VU
+212		Pyrilia vulturina (Kuhl, 1820)	Curica-urubu	VU
+213	*	Amazona pretrei (Temminck, 1830)	Papagaio-charão	VU
+214	*	Amazona rhodocorytha (Salvadori, 1890)	Chauá	VU
+215	*	Amazona vinacea (Kuhl, 1820)	Papagaio-de-peito-roxo	VU
+216		Dysithamnus plumbeus (Wied, 1831)	Choquinha-chumbo	EN
+217		Myrmotherula fluminensis (Gonzaga, 1988)	Choquinha-fluminense	CR (PEX)
+218		Myrmotherula klagesi (Todd, 1927)	Choquinha-do-tapajós	VU
+219	*	Myrmotherula minor (Salvadori, 1864)	Choquinha-pequena	VU
+220	*	Myrmotherula snowi (Teixeira & Gonzaga, 1985)	Choquinha-de-alagoas	CR
+221	*	Myrmotherula urosticta (Sclater, 1857)	Choquinha-de-rabo-cintado	VU
+222	*	Formicivora erythronotos (Hartlaub, 1852)	Formigueiro-de-cabeçanegra	CR
+223		Formicivora grantsaui (Gonzaga, Carvalhaes & Buzzetti,2007)	Papa-formiga-do-sincorá	EN
+224	*	Formicivora littoralis (Gonzaga & Pacheco, 1990)	Formigueiro-do-litoral	EN
+225		Formicivora paludicola (Buzzetti, Belmontes-Lopes, Reinert, Silveira & Bornschein, 2013)	Bicudinho-do-brejopaulista	CR
+226		Thamnomanes caesius caesius (Temminck, 1820)	Ipecuá	VU
+227	*	Herpsilochmus pileatus (Lichtenstein, 1823)	Chorozinho-de-boné	VU
+228	*	Thamnophilus aethiops distans (Pinto, 1954)	Choca-lisa	EN
+229	*	Thamnophilus caerulescens cearensis (Cory, 1919)	Choca-da-mata	VU
+230	*	Thamnophilus caerulescens pernambucensis (Naumburg,1937)	Choca-da-mata	VU
+231		Thamnophilus nigrocinereus tschudii (Pelzeln, 1868)	Choca-pretaecinza	EN
+232	*	Myrmoderus ruficaudus (Wied, 1831)	Formigueiro-de-caudaruiva	EN
+233	*	Rhopornis ardesiacus (Wied, 1831)	Gravatazeiro	EN
+234	*	Cercomacra ferdinandi (Snethlage, 1928)	Chororó-de-goiás	VU
+235	*	Stymphalornis acutirostris (Bornschein, Reinert & Teixeira, 1995)	Bicudinho-do-brejo	EN
+236		Hypocnemis ochrogyna (Zimmer, 1932)	Cantador-ocráceo	VU
+237	*	Pyriglena pernambucensis (Zimmer, 1931)	Papa-taoca	VU
+238	*	Pyriglena atra (Swainson, 1825)	Papa-taoca-da-bahia	EN
+239		Phlegopsis nigromaculata confinis (Zimmer, 1932)	Mãe-de-taoca	VU
+240	*	Phlegopsis nigromaculata paraensis (Hellmayr, 1904)	Mãe-de-taoca	VU
+241		Rhegmatorhina gymnops (Ridgway, 1888)	Mãe-de-taoca-de-carabranca	VU
+242	*	Terenura sicki (Teixeira & Gonzaga, 1983)	Zidedê-do-nordeste	CR
+243	*	Conopophaga lineata cearae (Cory, 1916)	Chupa-dente	EN
+244		Conopophaga lineata lineata (Wied, 1831)	Chupa-dente	VU
+245	*	Conopophaga melanops nigrifrons (Pinto, 1954)	Cuspidor-de-máscarapreta	VU
+246		Grallaria varia distincta (Todd, 1927)	Tovacuçu	VU
+247	*	Grallaria varia intercedens (Berlepsch & Leverkühn,1890)	Tovacuçu	VU
+248		Hylopezus paraensis (Snethlage, 1910)	Torom-do-pará	VU
+249		Eleoscytalopus psychopompus (Teixeira & Carnevalli,1989)	Macuquinho-baiano	EN
+250	*	Merulaxis stresemanni (Sick, 1960)	Entufado-baiano	CR
+251		Scytalopus diamantinensis (Bornschein, Maurício, Belmonte-Lopes, Mata & Bonato, 2007)	Tapaculo-da-chapadadiamantina	EN
+252		Scytalopus gonzagai (Maurício, Belmonte-Lopes, Pacheco,Silveira, Whitney & Bornschein 2014)	Macuquinho-preto-baiano	EN
+253	*	Scytalopus iraiensis (Bornschein, Reinert & Pichorim,1998)	Macuquinho-da-várzea	EN
+254		Scytalopus novacapitalis (Sick, 1958)	Tapaculo-de-brasília	EN
+255		Chamaeza nobilis fulvipectus (Todd, 1927)	Tovaca-estriada	VU
+256		Sclerurus macconnelli bahiae (Chubb, 1919)	Vira-folha-de-peito-vermelho	VU
+257	*	Sclerurus caudacutus caligineus (Pinto, 1954)	Vira-folha-pardo	CR
+258	*	Sclerurus caudacutus umbretta (Lichtenstein, 1823)	Vira-folha-pardo	CR
+259	*	Sclerurus cearensis (Snethlage, 1924)	Vira-folhas-cearense	VU
+260	*	Geositta poeciloptera (Wied, 1830)	Andarilho	EN
+261	*	Dendrocincla taunayi (Pinto, 1939)	Arapaçu-pardo	EN
+262	*	Dendrocincla merula badia (Zimmer, 1934)	Arapaçu-da-taoca	VU
+263	*	Xiphorhynchus atlanticus (Cory, 1916)	Arapaçu-rajado-do-nordeste	VU
+264		Xiphorhynchus guttatus gracilirostris (Pinto & Camargo,1957)	Arapaçu-de-gargantaamarela	EN
+265		Campylorhamphus cardosoi (Portes, Aleixo, Zimmer,Whittaker, Weckstein, Gonzaga, Ribas, Bates & Lees,2013)	Arapaçu-do-tapajós	VU
+266		Campylorhamphus multostriatus (Snethlage, 1907)	Arapaçu-de-bico-curvodo-xingu	VU
+267		Campylorhamphus trochilirostris trochilirostris (Lichtenstein, 1820)	Arapaçu-beija-flor	EN
+268	*	Lepidocolaptes wagleri (Spix, 1824)	Arapaçu-de-wagler	EN
+269	*	Dendrexetastes rufigula paraensis (Lorenz, 1895)	Arapaçu-canela-de-belém	EN
+270		Dendrocolaptes retentus (Batista, Aleixo, Vallinoto, Azevedo, Rêgo, Silveira, Sampaio & Schneider, 2013)	Arapaçu-barrado-doxingu	VU
+271	*	Dendrocolaptes medius (Todd, 1920)	Arapaçu-barrado-doleste	VU
+272		Dendrocolaptes picumnus transfasciatus (Todd, 1925)	Arapaçu-meio-barrado	VU
+273		Xiphocolaptes carajaensis (Silva, Novaes & Oren, 2002)	Arapaçu-de-carajás	VU
+274	*	Xiphocolaptes falcirostris (Spix, 1824)	Arapaçu-do-nordeste	VU
+275		Hylexetastes brigidai (Silva, Novaes & Oren, 1996)	Arapaçu-de-loro-cinza	VU
+276	*	Xenops minutus alagoanus (Pinto, 1954)	Bico-virado-miúdo	VU
+277	*	Acrobatornis fonsecai (Pacheco, Whitney & Gonzaga,1996)	Acrobata	VU
+278		Asthenes hudsoni (Sclater, 1874)	João-platino	VU
+279	*	Automolus lammi (Zimmer, 1947)	Barranqueiro-do-nordeste	EN
+280	*	Coryphistera alaudina (Burmeister, 1860)	Corredor-crestudo	CR
+281	*	Leptasthenura platensis (Reichenbach, 1853)	Rabudinho	CR
+282	*	Pseudoseisura lophotes (Reichenbach, 1853)	Coperete	VU
+283	*	Synallaxis infuscata (Pinto, 1950)	Tatac	EN
+284		Synallaxis kollari (Pelzeln, 1856)	João-de-barba-grisalho	EN
+285		Cranioleuca muelleri (Hellmayr, 1911)	João-escamoso	VU
+286	*	Thripophaga macroura (Wied, 1821)	Rabo-amarelo	VU
+287		Cinclodes espinhacensis (Freitas, Chaves, Costa, Santos &Rodrigues, 2012)	Pedreiro-do-espinhaço	EN
+288		Neopelma aurifrons (Wied, 1831)	Fruxu-baiano	EN
+289		Lepidothrix vilasboasi (Sick, 1959)	Dançador-de-coroadourada	VU
+290		Lepidothrix iris (Schinz, 1851)	Cabeça-de-prata	EN
+291		Lepidothrix iris iris (Schinz, 1851)	Cabeça-de-prata	EN
+292	*	Antilophia bokermanni (Coelho & Silva, 1998)	Soldadinho-do-araripe	CR
+293	*	Schiffornis turdina intermedia (Pinto, 1954)	Flautim-marrom	VU
+294		Iodopleura pipra (Lesson, 1831)	Anambezinho	EN
+295	*	Iodopleura pipra leucopygia (Salvin, 1885)	Anambezinho	CR
+296		Iodopleura pipra pipra (Lesson, 1831)	Anambezinho	EN
+297	*	Carpornis melanocephala (Wied, 1820)	Sabiá-pimenta	VU
+298	*	Tijuca condita (Snow, 1980)	Saudade-de-asa-cinza	VU
+299	*	Xipholena atropurpurea (Wied, 1820)	Anambé-de-asa-branca	VU
+300		Procnias albus wallacei (Oren & Novaes, 1985)	Araponga-da-amazônia	VU
+301	*	Cotinga maculata (Statius Muller, 1776)	Crejoá	CR
+302		Piprites chloris grisescens (Novaes, 1964)	Papinho-amarelo	VU
+303	*	Calyptura cristata (Vieillot, 1818)	Tietê-de-coroa	CR (PEX)
+304	*	Phylloscartes beckeri (Gonzaga & Pacheco, 1995)	Borboletinha-baiana	EN
+305	*	Phylloscartes ceciliae (Teixeira, 1987)	Cara-pintada	CR
+306	*	Phylloscartes roquettei (Snethlage, 1928)	Cara-dourada	EN
+307		Hemitriccus furcatus (Lafresnaye, 1846)	Papa-moscas-estrela	VU
+308		Hemitriccus griseipectus naumburgae (Zimmer, 1945)	Maria-de-barriga-branca	VU
+309	*	Hemitriccus kaempferi (Zimmer, 1953)	Maria-catarinense	VU
+310	*	Hemitriccus mirandae (Snethlage, 1925)	Maria-do-nordeste	VU
+311		Stigmatura napensis napensis (Chapman, 1926)	Papa-mosca-do-sertão	VU
+312	*	Elaenia ridleyana (Sharpe, 1888)	Cocoruta	VU
+313	*	Alectrurus tricolor (Vieillot, 1816)	Galito	VU
+314	*	Platyrinchus mystaceus niveigularis (Pinto, 1954)	Patinho-do-nordeste	VU
+315		Serpophaga hypoleuca pallida (Snethlage, 1907)	Alegrinho-do-rio	VU
+316		Attila spadiceus uropygiatus (Wied, 1831)	Capitão-de-saíra-amarelo	VU
+317		Xolmis dominicanus (Vieillot, 1823)	Noivinha-de-rabo-preto	VU
+318	*	Vireo gracilirostris (Sharpe, 1890)	Juruviara-de-noronha	VU
+319		Hylophilus ochraceiceps rubrifrons (Sclater & Salvin,1867)	Vite-vite-uirapuru	VU
+320		Cyanocorax hafferi (Cohn-Haft, Santos-Júnior, Fernandes& Ribas, 2013)	Cancão-da-campina	VU
+321	*	Cichlopsis leucogenys (Cabanis, 1851)	Sabiá-castanho	EN
+322	*	Anthus nattereri (Sclater, 1878)	Caminheiro-grande	VU
+323		Arremonops conirostris (Bonaparte, 1850)	Tico-tico-cantor	VU
+324	*	Curaeus forbesi (Sclater, 1886)	Anumará	VU
+325	*	Xanthopsar flavus (Gmelin, 1788)	Veste-amarela	VU
+326		Conothraupis mesoleuca (Berlioz, 1939)	Tiê-bicudo	EN
+327	*	Coryphaspiza melanotis (Temminck, 1822)	Tico-tico-de-máscaranegra	EN
+328	*	Gubernatrix cristata (Vieillot, 1817)	Cardeal-amarelo	CR
+329	*	Nemosia rourei (Cabanis, 1870)	Saíra-apunhalada	CR
+330		Tangara peruviana (Desmarest, 1806)	Saíra-sapucaia	VU
+331	*	Tangara cyanocephala cearensis (Cory, 1916)	Saíra-militar	VU
+332	*	Tangara fastuosa (Lesson, 1831)	Pintor-verdadeiro	VU
+333		Tangara velia signata (Hellmayr, 1905)	Saíra-diamante	VU
+334		Sporophila beltoni (Repenning & Fontana, 2013)	Patativa-tropeira	VU
+335	*	Sporophila falcirostris (Temminck, 1820)	Cigarra-verdadeira	VU
+336	*	Sporophila frontalis (Verreaux, 1869)	Pixoxó	VU
+337		Sporophila hypoxantha (Cabanis, 1851)	Caboclinho-de-barrigavermelha	VU
+338	*	Sporophila maximiliani (Cabanis, 1851)	Bicudo-verdadeiro	CR
+339	*	Sporophila melanogaster (Pelzeln, 1870)	Caboclinho-de-barrigapreta	VU
+340	*	Sporophila nigrorufa (d'Orbigny & Lafresnaye, 1837)	Caboclinho-do-sertão	VU
+341	*	Sporophila palustris (Barrows, 1883)	Caboclinho-de-papobranco	VU
+342		Sporophila ruficollis (Cabanis, 1851)	Caboclinho-de-papo-escuro	VU
+343	*	Caryothraustes canadensis frontalis (Hellmayr, 1905)	Furriel	EN
+344	*	Sporagra yarrellii (Audubon, 1839)	Pintassilgo-do-nordeste	VU
