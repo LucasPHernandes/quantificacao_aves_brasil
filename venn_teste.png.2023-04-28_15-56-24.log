@@ -1,0 +1,24 @@
+INFO [2023-04-28 15:56:24] $x
+INFO [2023-04-28 15:56:24] list(tabela_venn_estadual, tabela_venn_nacional, tabela_venn_global)
+INFO [2023-04-28 15:56:24] 
+INFO [2023-04-28 15:56:24] $category.names
+INFO [2023-04-28 15:56:24] c("Estadual", "Brasil", "Global")
+INFO [2023-04-28 15:56:24] 
+INFO [2023-04-28 15:56:24] $filename
+INFO [2023-04-28 15:56:24] [1] "venn_teste.png"
+INFO [2023-04-28 15:56:24] 
+INFO [2023-04-28 15:56:24] $output
+INFO [2023-04-28 15:56:24] [1] TRUE
+INFO [2023-04-28 15:56:24] 
+INFO [2023-04-28 15:56:24] $imagetype
+INFO [2023-04-28 15:56:24] [1] "png"
+INFO [2023-04-28 15:56:24] 
+INFO [2023-04-28 15:56:24] $scaled
+INFO [2023-04-28 15:56:24] [1] FALSE
+INFO [2023-04-28 15:56:24] 
+INFO [2023-04-28 15:56:24] $col
+INFO [2023-04-28 15:56:24] [1] "black"
+INFO [2023-04-28 15:56:24] 
+INFO [2023-04-28 15:56:24] $margin
+INFO [2023-04-28 15:56:24] [1] 0.15
+INFO [2023-04-28 15:56:24] 

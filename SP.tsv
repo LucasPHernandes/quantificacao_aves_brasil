@@ -5,15 +5,15 @@ Chordata	Aves	Tinamiformes	Tinamidae	Crypturellus undulatus vermiculatus (Temmin
 Chordata	Aves	Tinamiformes	Tinamidae	Crypturellus noctivagus noctivagus (Wied, 1820)	jaó-do-sul	EN
 Chordata	Aves	Tinamiformes	Tinamidae	Nothura minor (Spix, 1825)	codorna-mineira	RE
 Chordata	Aves	Tinamiformes	Tinamidae	Taoniscus nanus (Temminck, 1815)	codorninha	RE
-Chordata	Aves	Anseriformes	Anatidae	Sarkidiornis sylvicola Ihering & Ihering, 1907	pato-de-crista	VU
-Chordata	Aves	Anseriformes	Anatidae	Mergus octosetaceus Vieillot, 1817	pato-mergulhão	CR
+Chordata	Aves	Anseriformes	Anatidae	Sarkidiornis sylvicola (Ihering & Ihering, 1907)	pato-de-crista	VU
+Chordata	Aves	Anseriformes	Anatidae	Mergus octosetaceus (Vieillot, 1817)	pato-mergulhão	CR
 Chordata	Aves	Galliformes	Cracidae	Aburria jacutinga (Spix, 1825)	jacutinga	CR
-Chordata	Aves	Galliformes	Cracidae	Ortalis guttata remota Pinto, 1964	aracuã-pintado	CR
-Chordata	Aves	Galliformes	Cracidae	Crax fasciolata fasciolata Spix, 1825	mutum-de-penacho	CR
+Chordata	Aves	Galliformes	Cracidae	Ortalis guttata remota (Pinto, 1964)	aracuã-pintado	CR
+Chordata	Aves	Galliformes	Cracidae	Crax fasciolata fasciolata (Spix, 1825)	mutum-de-penacho	CR
 Chordata	Aves	Procellariiformes	Diomedeidae	Thalassarche chlororhynchos (Gmelin, 1789)	albatroz-de-nariz-amarelo	EN
 Chordata	Aves	Procellariiformes	Diomedeidae	Thalassarche melanophris (Temminck, 1828)	albatroz-de-sobrancelha	EN
-Chordata	Aves	Procellariiformes	Diomedeidae	Diomedea exulans Linnaeus, 1758	albatroz-errante	CR
-Chordata	Aves	Procellariiformes	Diomedeidae	Diomedea dabbenena Mathews, 1929	albatroz-de-tristão	CR
+Chordata	Aves	Procellariiformes	Diomedeidae	Diomedea exulans (Linnaeus, 1758)	albatroz-errante	CR
+Chordata	Aves	Procellariiformes	Diomedeidae	Diomedea dabbenena (Mathews, 1929)	albatroz-de-tristão	CR
 Chordata	Aves	Ciconiiformes	Ciconiidae	Ciconia maguari (Gmelin, 1789)	maguari	VU
 Chordata	Aves	Pelecaniformes	Ardeidae	Tigrisoma fasciatum fasciatum (Such, 1825)	socó-jararaca	CR
 Chordata	Aves	Pelecaniformes	Ardeidae	Cochlearius cochlearius cochlearius (Linnaeus, 1766)	arapapá	EN
@@ -29,15 +29,15 @@ Chordata	Aves	Accipitriformes	Accipitridae	Spizaetus melanoleucus (Vieillot, 181
 Chordata	Aves	Accipitriformes	Accipitridae	Spizaetus ornatus ornatus (Daudin, 1800)	gavião-de-penacho	CR
 Chordata	Aves	Gruiformes	Rallidae	Coturnicops notatus (Gould, 1841)	pinto-d'água-carijó	CR
 Chordata	Aves	Gruiformes	Rallidae	Micropygia schomburgkii chapmani (Naumburg, 1930)	maxalalagá	CR
-Chordata	Aves	Gruiformes	Rallidae	Rallus longirostris crassirostris Lawrence, 1871	saracura-matraca	VU
+Chordata	Aves	Gruiformes	Rallidae	Rallus longirostris crassirostris (Lawrence, 1871)	saracura-matraca	VU
 Chordata	Aves	Gruiformes	Rallidae	Aramides mangle (Spix, 1825)	saracura-do-mangue	VU
-Chordata	Aves	Gruiformes	Rallidae	Aramides cajaneus avicenniae Stotz, 1992	saracura-três-potes	VU
-Chordata	Aves	Gruiformes	Rallidae	Laterallus xenopterus Conover, 1934	sanã-de-cara-ruiva	CR
+Chordata	Aves	Gruiformes	Rallidae	Aramides cajaneus avicenniae (Stotz, 1992)	saracura-três-potes	VU
+Chordata	Aves	Gruiformes	Rallidae	Laterallus xenopterus (Conover, 1934)	sanã-de-cara-ruiva	CR
 Chordata	Aves	Gruiformes	Rallidae	Porphyriops melanops melanops (Vieillot, 1819)	galinha-d'água-carijó	EN
 Chordata	Aves	Gruiformes	Heliornithidae	Heliornis fulica (Boddaert, 1783)	picaparra	EN
 Chordata	Aves	Charadriiformes	Charadriidae	Vanellus cayanus (Latham, 1790)	mexeriqueira	EN
-Chordata	Aves	Charadriiformes	Charadriidae	Charadrius wilsonia wilsonia Ord, 1814	batuíra-bicuda	VU
-Chordata	Aves	Charadriiformes	Haematopodidae	Haematopus palliatus palliatus Temminck, 1820	piru-piru	EN
+Chordata	Aves	Charadriiformes	Charadriidae	Charadrius wilsonia wilsonia (Ord, 1814)	batuíra-bicuda	VU
+Chordata	Aves	Charadriiformes	Haematopodidae	Haematopus palliatus palliatus (Temminck, 1820)	piru-piru	EN
 Chordata	Aves	Charadriiformes	Scolopacidae	Gallinago undulata gigantea (Temminck, 1826)	narcejão	VU
 Chordata	Aves	Charadriiformes	Scolopacidae	Numenius borealis (Forster, 1772)	maçarico-esquimó	RE
 Chordata	Aves	Charadriiformes	Scolopacidae	Bartramia longicauda (Bechstein, 1812)	maçarico-do-campo	VU
@@ -46,7 +46,7 @@ Chordata	Aves	Charadriiformes	Scolopacidae	Calidris pusilla (Linnaeus, 1766)	ma�
 Chordata	Aves	Charadriiformes	Scolopacidae	Calidris subruficollis (Vieillot, 1819)	maçarico-acanelado	VU
 Chordata	Aves	Charadriiformes	Sternidae	Sternula superciliaris (Vieillot, 1819)	trinta-réis-pequeno	EN
 Chordata	Aves	Charadriiformes	Sternidae	Phaetusa simplex simplex (Gmelin, 1789)	trinta-réis-grande	VU
-Chordata	Aves	Charadriiformes	Sternidae	Sterna hirundinacea Lesson, 1831	trinta-réis-de-bico-vermelho	VU
+Chordata	Aves	Charadriiformes	Sternidae	Sterna hirundinacea (Lesson, 1831)	trinta-réis-de-bico-vermelho	VU
 Chordata	Aves	Charadriiformes	Sternidae	Thalasseus acuflavidus eurygnathus (Saunders, 1876)	trinta-réis-de-bando	VU
 Chordata	Aves	Charadriiformes	Sternidae	Thalasseus maximus maximus (Boddaert, 1783)	trinta-réis-real	EN
 Chordata	Aves	Columbiformes	Columbidae	Columbina cyanopis (Pelzeln, 1870)	rolinha-do-planalto	RE
@@ -59,7 +59,7 @@ Chordata	Aves	Strigiformes	Strigidae	Pulsatrix perspicillata pulsatrix (Wied, 18
 Chordata	Aves	Strigiformes	Strigidae	Strix huhula albomarginata (Spix, 1824)	coruja-preta	VU
 Chordata	Aves	Nyctibiiformes	Nyctibiidae	Nyctibius grandis grandis (Gmelin, 1789)	urutau-grande	CR
 Chordata	Aves	Nyctibiiformes	Nyctibiidae	Nyctibius aethereus aethereus (Wied, 1820)	urutau-pardo	RE
-Chordata	Aves	Caprimulgiformes	Caprimulgidae	Antrostomus sericocaudatus sericocaudatus Cassin, 1849	bacurau-rabo-de-seda	CR
+Chordata	Aves	Caprimulgiformes	Caprimulgidae	Antrostomus sericocaudatus sericocaudatus (Cassin, 1849)	bacurau-rabo-de-seda	CR
 Chordata	Aves	Caprimulgiformes	Caprimulgidae	Hydropsalis anomala (Gould, 1838)	curiango-do-banhado	RE
 Chordata	Aves	Caprimulgiformes	Caprimulgidae	Hydropsalis candicans (Pelzeln, 1867)	bacurau-de-rabo-branco	RE
 Chordata	Aves	Caprimulgiformes	Caprimulgidae	Hydropsalis maculicaudus (Lawrence, 1862)	bacurau-de-rabo-maculado	EN
@@ -67,24 +67,80 @@ Chordata	Aves	Apodiformes	Trochilidae	Lophornis magnificus (Vieillot, 1817)	tope
 Chordata	Aves	Apodiformes	Trochilidae	Thalurania furcata eriphile (Lesson, 1832)	beija-flor-tesoura-verde	EN
 Chordata	Aves	Apodiformes	Trochilidae	Hylocharis sapphirina (Gmelin, 1788)	beija-flor-safira	EN
 Chordata	Aves	Apodiformes	Trochilidae	Heliactin bilophus (Temminck, 1820)	chifre-de-ouro	CR
-Chordata	Aves	Galbuliformes	Galbulidae	Brachygalba lugubris melanosterna Sclater, 1855	ariramba-preta	CR
+Chordata	Aves	Galbuliformes	Galbulidae	Brachygalba lugubris melanosterna (Sclater, 1855)	ariramba-preta	CR
 Chordata	Aves	Galbuliformes	Galbulidae	Jacamaralcyon tridactyla (Vieillot, 1817)	cuitelão	RE
 Chordata	Aves	Galbuliformes	Bucconidae	Nystalus maculatus (Gmelin, 1788)	rapazinho-dos-velhos	VU
 Chordata	Aves	Galbuliformes	Bucconidae	Nonnula rubecula rubecula (Spix, 1824)	macuru	EN
 Chordata	Aves	Galbuliformes	Bucconidae	Monasa nigrifrons nigrifrons (Spix, 1824)	chora-chuva-preto	VU
-Chordata	Aves	Galbuliformes	Bucconidae	Chelidoptera tenebrosa brasiliensis Sclater, 1862	urubuzinho	VU
+Chordata	Aves	Galbuliformes	Bucconidae	Chelidoptera tenebrosa brasiliensis (Sclater, 1862)	urubuzinho	VU
 Chordata	Aves	Piciformes	Ramphastidae	Selenidera maculirostris (Lichtenstein, 1823)	araçari-poca	VU
 Chordata	Aves	Piciformes	Ramphastidae	Pteroglossus bailloni (Vieillot, 1819)	araçari-banana	VU
-Chordata	Aves	Piciformes	Ramphastidae	Pteroglossus aracari wiedii Sturm & Sturm, 1847	araçari-de-bico-branco	CR
-Chordata	Aves	Piciformes	Ramphastidae	Pteroglossus castanotis australis Cassin, 1867	araçari-castanho	VU
+Chordata	Aves	Piciformes	Ramphastidae	Pteroglossus aracari wiedii (Sturm & Sturm, 1847)	araçari-de-bico-branco	CR
+Chordata	Aves	Piciformes	Ramphastidae	Pteroglossus castanotis australis (Cassin, 1867)	araçari-castanho	VU
 Chordata	Aves	Piciformes	Picidae	Veniliornis mixtus cancellatus (Wagler, 1829)	pica-pau-chorão	CR
 Chordata	Aves	Piciformes	Picidae	Celeus galeatus (Temminck, 1822)	pica-pau-de-cara-canela	EN
 Chordata	Aves	Falconiformes	Falconidae	Ibycter americanus (Boddaert, 1783)	cancão	RE
 Chordata	Aves	Falconiformes	Falconidae	Falco rufigularis ophryophanes (Salvadori, 1895)	cauré	VU
 Chordata	Aves	Psittaciformes	Psittaciformes	Ara ararauna (Linnaeus, 1758)	arara-canindé	VU
-Chordata	Aves	Psittaciformes	Psittaciformes	Ara chloropterus Gray, 1859	arara-vermelha	CR
+Chordata	Aves	Psittaciformes	Psittaciformes	Ara chloropterus (Gray, 1859)	arara-vermelha	CR
 Chordata	Aves	Psittaciformes	Psittaciformes	Orthopsittaca manilatus (Boddaert, 1783)	maracanã-do-buriti	EN
 Chordata	Aves	Psittaciformes	Psittaciformes	Primolius maracana (Vieillot, 1816)	maracanã	VU
 Chordata	Aves	Psittaciformes	Psittaciformes	Touit melanonotus (Wied, 1820)	apuim-de-costas-pretas	VU
 Chordata	Aves	Psittaciformes	Psittaciformes	Alipiopsitta xanthops (Spix, 1824)	papagaio-galego	VU
 Chordata	Aves	Psittaciformes	Psittaciformes	Amazona vinacea (Kuhl, 1820)	papagaio-de-peito-roxo	CR
+Chordata	Aves	Psittaciformes	Psittaciformes	Amazona farinosa (Boddaert, 1783)	papagaio-moleiro	CR
+Chordata	Aves	Psittaciformes	Psittaciformes	Amazona brasiliensis (Linnaeus, 1758)	papagaio-de-cara-roxa	VU
+Chordata	Aves	Passeriformes	Thamnophilidae	Myrmotherula minor (Salvadori, 1864)	choquinha-pequena	VU
+Chordata	Aves	Passeriformes	Thamnophilidae	Formicivora melanogaster melanogaster (Pelzeln, 1868)	formigueiro-de-barriga-preta	EN
+Chordata	Aves	Passeriformes	Thamnophilidae	Formicivora paludicola (Buzzetti, Belmonte-Lopes, Reinert, Silveira & Bornschein, 2014)	bicudinho-do-brejo-paulista	CR
+Chordata	Aves	Passeriformes	Thamnophilidae	Biatas nigropectus (Lafresnaye, 1850)	papo-branco	VU
+Chordata	Aves	Passeriformes	Melanopareiidae	Melanopareia torquata rufescens (Hellmayr, 1924)	tapaculo-de-colarinho	CR
+Chordata	Aves	Passeriformes	Scleruridae	Sclerurus macconnelli bahiae (Chubb, 1919)	vira-folha-de-peito-vermelho	EN
+Chordata	Aves	Passeriformes	Scleruridae	Geositta poeciloptera (Wied, 1830)	andarilho	RE
+Chordata	Aves	Passeriformes	Dendrocolaptidae	Campylorhamphus trochilirostris major (Ridgway, 1911)	arapaçu-beija-flor	EN
+Chordata	Aves	Passeriformes	Furnariidae	Phleocryptes melanops melanops (Vieillot, 1817)	bate-bico	EN
+Chordata	Aves	Passeriformes	Furnariidae	Synallaxis hypospodia (Sclater, 1874)	joão-grilo	VU
+Chordata	Aves	Passeriformes	Furnariidae	Synallaxis scutata scutata (Sclater, 1859)	estrelinha-preta	EN
+Chordata	Aves	Passeriformes	Furnariidae	Asthenes moreirae (Miranda-Ribeiro, 1906)	garrincha-chorona	EN
+Chordata	Aves	Passeriformes	Pipridae	Pipra fasciicauda scarlatina (Hellmayr, 1915)	uirapuru-laranja	VU
+Chordata	Aves	Passeriformes	Onychorhynchidae	Onychorhynchus swainsoni (Pelzeln, 1858)	maria-leque-do-sudeste	VU
+Chordata	Aves	Passeriformes	Tityridae	Laniisoma elegans (Thunberg, 1823)	chibante	VU
+Chordata	Aves	Passeriformes	Tityridae	Iodopleura pipra pipra (Lesson, 1831)	anambezinho	EN
+Chordata	Aves	Passeriformes	Cotingidae	Carpornis melanocephala (Wied, 1820)	sabiá-pimenta	VU
+Chordata	Aves	Passeriformes	Cotingidae	Lipaugus lanioides (Lesson, 1844)	tropeiro-da-serra	VU
+Chordata	Aves	Passeriformes	Platyrinchidae	Platyrinchus leucoryphus (Wied, 1831)	patinho-de-asa-castanha	VU
+Chordata	Aves	Passeriformes	Rhynchocyclidae	Phylloscartes eximius (Temminck, 1822)	barbudinho	EN
+Chordata	Aves	Passeriformes	Rhynchocyclidae	Phylloscartes kronei (Willis & Oniki, 1992)	maria-da-restinga	VU
+Chordata	Aves	Passeriformes	Rhynchocyclidae	Phylloscartes paulista (Ihering & Ihering, 1907)	não-pode-parar	VU
+Chordata	Aves	Passeriformes	Rhynchocyclidae	Hemitriccus furcatus (Lafresnaye, 1846)	papa-moscas-estrela	VU
+Chordata	Aves	Passeriformes	Tyrannidae	Euscarthmus rufomarginatus rufomarginatus (Pelzeln, 1868)	maria-corruíra	RE
+Chordata	Aves	Passeriformes	Tyrannidae	Myiopagis gaimardii gaimardii (d'Orbigny, 1840)	maria-pechim	EN
+Chordata	Aves	Passeriformes	Tyrannidae	Culicivora caudacuta (Vieillot, 1818)	papa-moscas-do-campo	CR
+Chordata	Aves	Passeriformes	Tyrannidae	Polystictus pectoralis pectoralis (Vieillot, 1817)	papa-moscas-canela	CR
+Chordata	Aves	Passeriformes	Tyrannidae	Sublegatus modestus modestus (Wied, 1831)	guaracava-modesta	CR
+Chordata	Aves	Passeriformes	Tyrannidae	Alectrurus tricolor (Vieillot, 1816)	galito	CR
+Chordata	Aves	Passeriformes	Troglodytidae	Cistothorus platensis polyglottus (Vieillot, 1819)	corruíra-do-campo	RE
+Chordata	Aves	Passeriformes	Motacillidae	Anthus nattereri (Sclater, 1878)	caminheiro-grande	RE
+Chordata	Aves	Passeriformes	Parulidae	Myiothlypis leucophrys (Pelzeln, 1868)	pula-pula-de-sobrancelha	VU
+Chordata	Aves	Passeriformes	Thraupidae	Neothraupis fasciata (Lichtenstein, 1823)	cigarra-do-campo	CR
+Chordata	Aves	Passeriformes	Thraupidae	Tangara peruviana (Desmarest, 1806)	saíra-sapucaia	VU
+Chordata	Aves	Passeriformes	Thraupidae	Conirostrum bicolor bicolor (Vieillot, 1809)	figuinha-do-mangue	VU
+Chordata	Aves	Passeriformes	Thraupidae	Charitospiza eucosma (Oberholser, 1905)	mineirinho	RE
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila frontalis (Verreaux, 1869)	pixoxó	EN
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila falcirostris (Temminck, 1820)	cigarra	EN
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila plumbea plumbea (Wied, 1830)	patativa	VU
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila beltoni (Repenning & Fontana, 2013)	patativa-tropeira	CR
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila bouvreuil (Statius Muller, 1776)	caboclinho	VU
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila pileata (Sclater, 1865)	caboclinho-branco	EN
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila hypoxantha (Cabanis, 1851)	caboclinho-de-barriga-vermelha	CR
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila ruficollis (Cabanis, 1851)	caboclinho-de-papo-escuro	CR
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila palustris (Barrows, 1883)	caboclinho-de-papo-branco	CR
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila cinnamomea (Lafresnaye, 1839)	caboclinho-de-chapéu-cinzento	CR
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila melanogaster (Pelzeln, 1870)	caboclinho-de-barriga-preta	CR
+Chordata	Aves	Passeriformes	Thraupidae	Sporophila maximiliani maximiliani (Cabanis, 1851)	bicudo	CR
+Chordata	Aves	Passeriformes	Thraupidae	Coryphaspiza melanotis melanotis (Temminck, 1822)	tico-tico-de-máscara-negra	RE
+Chordata	Aves	Passeriformes	Thraupidae	Emberizoides ypiranganus (Ihering & Ihering, 1907)	canário-do-brejo	EN
+Chordata	Aves	Passeriformes	Thraupidae	Microspingus cinereus (Bonaparte, 1850)	capacetinho-do-oco-do-pau	VU
+Chordata	Aves	Passeriformes	Thraupidae	Cypsnagra hirundinacea hirundinacea (Lesson, 1831)	bandoleta	EN
+Chordata	Aves	Passeriformes	Thraupidae	Donacospiza albifrons (Vieillot, 1817)	tico-tico-do-banhado	VU
+Chordata	Aves	Passeriformes	Cardinalidae	Amaurospiza moesta (Hartlaub, 1853)	negrinho-do-mato	VU

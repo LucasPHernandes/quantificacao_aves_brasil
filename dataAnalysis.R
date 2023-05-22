@@ -13,7 +13,7 @@ library(stringr)
 
 
 # Nomes CBRO_2021:
-names_CBRO <- read.csv("Nomes Padronizados.csv", sep = ",", encoding = "UTF-8", stringsAsFactors = FALSE)
+names_CBRO <- read.csv("Nomes Padronizados.tsv", sep = "\t", stringsAsFactors = FALSE)
 
 # BLOCO MINAS GERAIS (MG)
 
@@ -180,7 +180,7 @@ SP$TEMP[SP$TEMP == "Pteroglossus aracari wiedii Sturm & Sturm, 1847"] = "Pterogl
 SP$TEMP[SP$TEMP == "Pteroglossus castanotis australis Cassin, 1867"] = "Pteroglossus castanotis australis (Cassin, 1867)"
 SP$TEMP[SP$TEMP == "Ara chloropterus Gray, 1859"] = "Ara chloropterus (Gray, 1859)"
 
-SP$TAXON <- gsub("\\s*\\([^\\)]+\\)","",as.character(SP$TEMP))
+SP$TAXON <- gsub("\\s*\\([^\\)]+\\)","",as.character(SP$Táxon))
 
 SP$CBRO_2021 <- names_CBRO$CBRO[match(SP$TAXON, names_CBRO$Nomes)]
 
@@ -478,7 +478,8 @@ lista_global$CATEGORIA_AMEACA <- lista_global$Global.IUCN.Red.List.Category
 
 
 lista_nacional <- read.csv("Lista_nacional.tsv", sep = "\t", encoding = "UTF-8", stringsAsFactors = FALSE)
-lista_nacional <- rename(lista_nacional, TAXON = Amadonastur.lacernulatus, CATEGORIA_AMEACA = VU)
+lista_nacional$CATEGORIA_AMEACA <- lista_nacional$Categoria.de.ameaca
+lista_nacional$TAXON <- lista_nacional$Nome.Cientifico
 lista_nacional$CBRO_2021 <- names_CBRO$CBRO[match(lista_nacional$TAXON, names_CBRO$Nomes)]
 lista_nacional$NIVEL <- "Brasil"
 lista_nacional$ANO <- 2022
