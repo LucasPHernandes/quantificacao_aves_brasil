@@ -1,0 +1,294 @@
+Scientific name - BirdLife 2022	English name	Family	Global IUCN Red List Category		Nome do táxon (sem autoria) - CBRO 2021	English Name
+Crypturellus noctivagus	Yellow-legged Tinamou	Tinamidae (Tinamous)	NT		Crypturellus zabele	Zabele Tinamou
+Penelope pileata	White-crested Guan	Cracidae (Guans, Chachalacas, Curassows)	VU		Crypturellus noctivagus	Yellow-legged Tinamou
+Penelope ochrogaster	Chestnut-bellied Guan	Cracidae (Guans, Chachalacas, Curassows)	VU		Penelope pileata	White-crested Guan
+Penelope jacucaca	White-browed Guan	Cracidae (Guans, Chachalacas, Curassows)	VU		Penelope ochrogaster	Chestnut-bellied Guan
+Ortalis araucuan	East Brazilian Chachalaca	Cracidae (Guans, Chachalacas, Curassows)	LC		Penelope jacucaca	White-browed Guan
+Ortalis squamata	Scaled Chachalaca	Cracidae (Guans, Chachalacas, Curassows)	LC		Ortalis remota	Pinto's Chachalaca
+Ortalis superciliaris	Buff-browed Chachalaca	Cracidae (Guans, Chachalacas, Curassows)	LC		Ortalis araucuan	East Brazilian Chachalaca
+Crax pinima	Belem Curassow	Cracidae (Guans, Chachalacas, Curassows)	CR		Ortalis squamata	Scaled Chachalaca
+Crax blumenbachii	Red-billed Curassow	Cracidae (Guans, Chachalacas, Curassows)	EN		Ortalis superciliaris	Buff-browed Chachalaca
+Mitu mitu	Alagoas Curassow	Cracidae (Guans, Chachalacas, Curassows)	EW		Crax blumenbachii	Red-billed Curassow
+Columbina cyanopis	Blue-eyed Ground-dove	Columbidae (Pigeons, Doves)	CR		Pauxi mitu	Alagoas Curassow
+Nyctiprogne vielliardi	Bahian Nighthawk	Caprimulgidae (Nightjars)	LC		Columbina cyanopis	Blue-eyed Ground-Dove
+Nyctipolus hirundinaceus	Pygmy Nightjar	Caprimulgidae (Nightjars)	LC		Neomorphus squamiger	Scaled Ground-Cuckoo
+Ramphodon naevius	Saw-billed Hermit	Trochilidae (Hummingbirds)	LC		Nyctiprogne vielliardi	Bahian Nighthawk
+Glaucis dohrnii	Hook-billed Hermit	Trochilidae (Hummingbirds)	VU		Nyctidromus hirundinaceus	Pygmy Nightjar
+Anopetia gounellei	Broad-tipped Hermit	Trochilidae (Hummingbirds)	LC		Ramphodon naevius	Saw-billed Hermit
+Phaethornis major	Ash-bellied Hermit	Trochilidae (Hummingbirds)	LC		Glaucis dohrnii	Hook-billed Hermit
+Phaethornis squalidus	Dusky-throated Hermit	Trochilidae (Hummingbirds)	LC		Anopetia gounellei	Broad-tipped Hermit
+Phaethornis aethopygus	Tapajos Hermit	Trochilidae (Hummingbirds)	VU		Phaethornis squalidus	Dusky-throated Hermit
+Phaethornis idaliae	Minute Hermit	Trochilidae (Hummingbirds)	LC		Phaethornis maranhaoensis	Maranhao Hermit
+Augastes scutatus	Hyacinth Visorbearer	Trochilidae (Hummingbirds)	LC		Phaethornis aethopygus	Tapajos Hermit
+Augastes lumachella	Hooded Visorbearer	Trochilidae (Hummingbirds)	NT		Phaethornis idaliae	Minute Hermit
+Lophornis magnificus	Frilled Coquette	Trochilidae (Hummingbirds)	LC		Phaethornis major	Ash-bellied Hermit
+Clytolaema rubricauda	Brazilian Ruby	Trochilidae (Hummingbirds)	LC		Phaethornis margarettae	Margaretta's Hermit
+Heliomaster squamosus	Stripe-breasted Starthroat	Trochilidae (Hummingbirds)	LC		Augastes scutatus	Hyacinth Visorbearer
+Stephanoxis lalandi	Green-crowned Plovercrest	Trochilidae (Hummingbirds)	LC		Augastes lumachella	Hooded Visorbearer
+Campylopterus calcirupicola	Dry-forest Sabrewing	Trochilidae (Hummingbirds)	VU		Lophornis magnificus	Frilled Coquette
+Campylopterus diamantinensis	Diamantina Sabrewing	Trochilidae (Hummingbirds)	NT		Heliodoxa rubricauda	Brazilian Ruby
+Thalurania watertonii	Long-tailed Woodnymph	Trochilidae (Hummingbirds)	EN		Heliomaster squamosus	Stripe-breasted Starthroat
+Eupetomena cirrochloris	Sombre Hummingbird	Trochilidae (Hummingbirds)	LC		Stephanoxis lalandi	Green-crowned Plovercrest
+Aramides mangle	Little Wood-rail	Rallidae (Rails, Gallinules, Coots)	LC		Campylopterus calcirupicola	Outcrop Sabrewing
+Psophia ochroptera	Ochre-winged Trumpeter	Psophiidae (Trumpeters)	LC		Campylopterus diamantinensis	Diamantina Sabrewing
+Psophia dextralis	Olive-winged Trumpeter	Psophiidae (Trumpeters)	EN		Thalurania watertonii	Long-tailed Woodnymph
+Psophia obscura	Black-winged Trumpeter	Psophiidae (Trumpeters)	CR		Chrysuronia rondoniae	Blue-green Emerald
+Pterodroma arminjoniana	Trindade Petrel	Procellariidae (Petrels, Shearwaters)	VU		Psophia ochroptera	Yellow-winged Trumpeter
+Pterodroma incerta	Atlantic Petrel	Procellariidae (Petrels, Shearwaters)	EN		Psophia viridis	Green-winged Trumpeter
+Glaucidium mooreorum	Pernambuco Pygmy-owl	Strigidae (Typical Owls)	CR (PE)		Psophia dextralis	Brown-winged Trumpeter
+Leptodon forbesi	White-collared Kite	Accipitridae (Hawks, Eagles)	EN		Psophia interjecta	Xingu Trumpeter
+Buteogallus lacernulatus	White-necked Hawk	Accipitridae (Hawks, Eagles)	VU		Psophia obscura	Dark-winged Trumpeter
+Pseudastur polionotus	Mantled Hawk	Accipitridae (Hawks, Eagles)	NT		Leptodon forbesi	White-collared Kite
+Trogon aurantius	Northern Surucua Trogon	Trogonidae (Trogons)	LC		Amadonastur lacernulatus	White-necked Hawk
+Jacamaralcyon tridactyla	Three-toed Jacamar	Galbulidae (Jacamars)	NT		Megascops stangiae	Xingu Screech-Owl
+Malacoptila minor	Lesser Crescent-chested Puffbird	Bucconidae (Puffbirds)	EN		Megascops ater	Belem Screech-Owl
+Malacoptila striata	Greater Crescent-chested Puffbird	Bucconidae (Puffbirds)	LC		Megascops alagoensis	Alagoas Screech-Owl
+Nonnula amaurocephala	Chestnut-headed Nunlet	Bucconidae (Puffbirds)	LC		Glaucidium mooreorum	Pernambuco Pygmy-Owl
+Ramphastos ariel	Ariel Toucan	Ramphastidae (Toucans)	EN		Trogon muriciensis	Alagoas Black-throated Trogon
+Pteroglossus bitorquatus	Eastern Red-necked Araçari	Ramphastidae (Toucans)	EN		Jacamaralcyon tridactyla	Three-toed Jacamar
+Capito brunneipectus	Brown-chested Barbet	Capitonidae (New World Barbets)	LC		Nonnula amaurocephala	Chestnut-headed Nunlet
+Picumnus pygmaeus	Spotted Piculet	Picidae (Woodpeckers)	LC		Malacoptila minor	Lesser Crescent-chested Puffbird
+Picumnus varzeae	Varzea Piculet	Picidae (Woodpeckers)	NT		Malacoptila striata	Crescent-chested Puffbird
+Picumnus fulvescens	Tawny Piculet	Picidae (Woodpeckers)	NT		Nystalus maculatus	Spot-backed Puffbird
+Picumnus limae	Ochraceous Piculet	Picidae (Woodpeckers)	LC		Nystalus torridus	Eastern Striolated-Puffbird
+Celeus tinnunculus	Atlantic Black-breasted Woodpecker	Picidae (Woodpeckers)	VU		Capito brunneipectus	Brown-chested Barbet
+Celeus obrieni	Kaempfer's Woodpecker	Picidae (Woodpeckers)	VU		Pteroglossus azara	Ivory-billed Aracari
+Celeus ochraceus	Ochre-backed Woodpecker	Picidae (Woodpeckers)	LC		Picumnus pernambucensis	Pernambuco Piculet
+Veniliornis maculifrons	Yellow-eared Woodpecker	Picidae (Woodpeckers)	LC		Picumnus exilis	Bahia Piculet
+Touit melanonotus	Brown-backed Parrotlet	Psittacidae (Parrots)	NT		Picumnus limae	Ochraceous Piculet
+Touit surdus	Golden-tailed Parrotlet	Psittacidae (Parrots)	VU		Picumnus pygmaeus	Spotted Piculet
+Brotogeris tirica	Plain Parakeet	Psittacidae (Parrots)	LC		Picumnus varzeae	Varzea Piculet
+Triclaria malachitacea	Blue-bellied Parrot	Psittacidae (Parrots)	LC		Veniliornis maculifrons	Yellow-eared Woodpecker
+Pyrilia aurantiocephala	Bald Parrot	Psittacidae (Parrots)	NT		Celeus obrieni	Kaempfer's Woodpecker
+Pyrilia vulturina	Vulturine Parrot	Psittacidae (Parrots)	LC		Celeus ochraceus	Ochre-backed Woodpecker
+Pionus reichenowi	Blue-breasted Parrot	Psittacidae (Parrots)	VU		Piculus paraensis	Belem Woodpecker
+Amazona pretrei	Red-spectacled Amazon	Psittacidae (Parrots)	VU		Piculus polyzonus	Atlantic Woodpecker
+Amazona diadema	Diademed Amazon	Psittacidae (Parrots)	LC		Touit melanonotus	Brown-backed Parrotlet
+Amazona rhodocorytha	Red-browed Amazon	Psittacidae (Parrots)	VU		Touit surdus	Golden-tailed Parrotlet
+Amazona kawalli	White-faced Amazon	Psittacidae (Parrots)	LC		Brotogeris tirica	Plain Parakeet
+Amazona brasiliensis	Red-tailed Amazon	Psittacidae (Parrots)	NT		Triclaria malachitacea	Blue-bellied Parrot
+Pyrrhura cruentata	Ochre-marked Parakeet	Psittacidae (Parrots)	VU		Pyrilia aurantiocephala	Bald Parrot
+Pyrrhura lepida	Pearly Parakeet	Psittacidae (Parrots)	VU		Pyrilia vulturina	Vulturine Parrot
+Pyrrhura pfrimeri	Goias Parakeet	Psittacidae (Parrots)	EN		Pionus reichenowi	Reichenow's Parrot
+Pyrrhura griseipectus	Grey-breasted Parakeet	Psittacidae (Parrots)	EN		Amazona rhodocorytha	Red-browed Parrot
+Pyrrhura leucotis	White-eared Parakeet	Psittacidae (Parrots)	VU		Amazona kawalli	Kawall's Parrot
+Pyrrhura amazonum	Santarem Parakeet	Psittacidae (Parrots)	NT		Amazona brasiliensis	Red-tailed Parrot
+Pyrrhura lucianii	Bonaparte's Parakeet	Psittacidae (Parrots)	LC		Pyrrhura cruentata	Ochre-marked Parakeet
+Anodorhynchus leari	Lear's Macaw	Psittacidae (Parrots)	EN		Pyrrhura anerythra	Xingu Parakeet
+Eupsittula cactorum	Cactus Parakeet	Psittacidae (Parrots)	LC		Pyrrhura coerulescens	Pearly Parakeet
+Aratinga jandaya	Jandaya Parakeet	Psittacidae (Parrots)	LC		Pyrrhura griseipectus	Gray-breasted Parakeet
+Aratinga auricapillus	Golden-capped Parakeet	Psittacidae (Parrots)	LC		Pyrrhura leucotis	Maroon-faced Parakeet
+Cyanopsitta spixii	Spix's Macaw	Psittacidae (Parrots)	EW		Pyrrhura pfrimeri	Pfrimer's Parakeet
+Guaruba guarouba	Golden Parakeet	Psittacidae (Parrots)	VU		Pyrrhura amazonum	Santarem Parakeet
+Epinecrophylla hoffmannsi	Eastern Ornate Antwren	Thamnophilidae (Typical Antbirds)	LC		Pyrrhura lucianii	Bonaparte's Parakeet
+Clytoctantes atrogularis	Rondonia Bushbird	Thamnophilidae (Typical Antbirds)	VU		Anodorhynchus leari	Indigo Macaw
+Formicivora iheringi	Narrow-billed Antwren	Thamnophilidae (Typical Antbirds)	NT		Eupsittula cactorum	Cactus Parakeet
+Formicivora erythronotos	Black-hooded Antwren	Thamnophilidae (Typical Antbirds)	EN		Aratinga jandaya	Jandaya Parakeet
+Formicivora serrana	Serra Antwren	Thamnophilidae (Typical Antbirds)	LC		Aratinga auricapillus	Golden-capped Parakeet
+Formicivora grantsaui	Sincora Antwren	Thamnophilidae (Typical Antbirds)	EN		Cyanopsitta spixii	Spix's Macaw
+Formicivora acutirostris	Parana Antwren	Thamnophilidae (Typical Antbirds)	NT		Guaruba guarouba	Golden Parakeet
+Formicivora paludicola	Marsh Antwren	Thamnophilidae (Typical Antbirds)	CR		Clytoctantes atrogularis	Rondonia Bushbird
+Myrmotherula klagesi	Klages's Antwren	Thamnophilidae (Typical Antbirds)	VU		Epinecrophylla dentei	Roosevelt Stipplethroat
+Myrmotherula luctuosa	Silvery-flanked Antwren	Thamnophilidae (Typical Antbirds)	LC		Terenura sicki	Orange-bellied Antwren
+Myrmotherula minor	Salvadori's Antwren	Thamnophilidae (Typical Antbirds)	VU		Myrmotherula klagesi	Klages's Antwren
+Myrmotherula urosticta	Band-tailed Antwren	Thamnophilidae (Typical Antbirds)	VU		Myrmotherula minor	Salvadori's Antwren
+Myrmotherula unicolor	Unicolored Antwren	Thamnophilidae (Typical Antbirds)	NT		Myrmotherula urosticta	Band-tailed Antwren
+Myrmotherula snowi	Alagoas Antwren	Thamnophilidae (Typical Antbirds)	CR		Myrmotherula iheringi	Ihering's Antwren
+Terenura sicki	Orange-bellied Antwren	Thamnophilidae (Typical Antbirds)	CR		Myrmotherula fluminensis	Rio de Janeiro Antwren
+Rhopias gularis	Star-throated Antwren	Thamnophilidae (Typical Antbirds)	LC		Myrmotherula unicolor	Unicolored Antwren
+Dysithamnus xanthopterus	Rufous-backed Antvireo	Thamnophilidae (Typical Antbirds)	LC		Myrmotherula snowi	Alagoas Antwren
+Dysithamnus plumbeus	Plumbeous Antvireo	Thamnophilidae (Typical Antbirds)	VU		Formicivora iheringi	Narrow-billed Antwren
+Herpsilochmus sellowi	Caatinga Antwren	Thamnophilidae (Typical Antbirds)	LC		Formicivora erythronotos	Black-hooded Antwren
+Herpsilochmus pileatus	Bahia Antwren	Thamnophilidae (Typical Antbirds)	VU		Formicivora serrana	Serra Antwren
+Herpsilochmus praedictus	Predicted Antwren	Thamnophilidae (Typical Antbirds)	LC		Formicivora littoralis	Restinga Antwren
+Herpsilochmus stotzi	Aripuana Antwren	Thamnophilidae (Typical Antbirds)	LC		Formicivora grantsaui	Sincora Antwren
+Herpsilochmus pectoralis	Pectoral Antwren	Thamnophilidae (Typical Antbirds)	VU		Formicivora paludicola	São Paulo Antwren
+Sakesphorus cristatus	Silvery-cheeked Antshrike	Thamnophilidae (Typical Antbirds)	LC		Formicivora acutirostris	Marsh Antwren
+Sakesphorus luctuosus	Glossy Antshrike	Thamnophilidae (Typical Antbirds)	LC		Rhopias gularis	Star-throated Antwren
+Thamnophilus pelzelni	Planalto Slaty Antshrike	Thamnophilidae (Typical Antbirds)	LC		Sakesphoroides cristatus	Silvery-cheeked Antshrike
+Thamnophilus ambiguus	Sooretama Slaty Antshrike	Thamnophilidae (Typical Antbirds)	LC		Dysithamnus stictothorax	Spot-breasted Antvireo
+Cercomacra brasiliana	Rio de Janeiro Antbird	Thamnophilidae (Typical Antbirds)	NT		Dysithamnus xanthopterus	Rufous-backed Antvireo
+Cercomacra ferdinandi	Bananal Antbird	Thamnophilidae (Typical Antbirds)	NT		Dysithamnus plumbeus	Plumbeous Antvireo
+Cercomacroides laeta	Willis's Antbird	Thamnophilidae (Typical Antbirds)	LC		Herpsilochmus pectoralis	Pectoral Antwren
+Drymophila ferruginea	Ferruginous Antbird	Thamnophilidae (Typical Antbirds)	LC		Herpsilochmus praedictus	Predicted Antwren
+Drymophila genei	Rufous-tailed Antbird	Thamnophilidae (Typical Antbirds)	LC		Herpsilochmus stotzi	Aripuana Antwren
+Drymophila ochropyga	Ochre-rumped Antbird	Thamnophilidae (Typical Antbirds)	NT		Herpsilochmus pileatus	Bahia Antwren
+Drymophila squamata	Scaled Antbird	Thamnophilidae (Typical Antbirds)	LC		Sakesphorus luctuosus	Glossy Antshrike
+Hypocnemis rondoni	Manicore Antwarbler	Thamnophilidae (Typical Antbirds)	LC		Thamnophilus capistratus	Caatinga Antshrike
+Hypocnemis striata	Spix's Antwarbler	Thamnophilidae (Typical Antbirds)	LC		Thamnophilus pelzelni	Planalto Slaty-Antshrike
+Willisornis vidua	Xingu Scale-backed Antbird	Thamnophilidae (Typical Antbirds)	LC		Thamnophilus ambiguus	Sooretama Slaty-Antshrike
+Willisornis nigrigula	Tapajos Scale-backed Antbird	Thamnophilidae (Typical Antbirds)	LC		Radinopsyche sellowi	Caatinga Antwren
+Phlegopsis borbae	Pale-faced Bare-eye	Thamnophilidae (Typical Antbirds)	LC		Myrmoderus ruficauda	Scalloped Antbird
+Rhegmatorhina gymnops	Bare-eyed Antbird	Thamnophilidae (Typical Antbirds)	VU		Myrmoderus loricatus	White-bibbed Antbird
+Rhegmatorhina berlepschi	Harlequin Antbird	Thamnophilidae (Typical Antbirds)	LC		Myrmoderus squamosus	Squamate Antbird
+Rhegmatorhina hoffmannsi	White-breasted Antbird	Thamnophilidae (Typical Antbirds)	LC		Myrmelastes rufifacies	Rufous-faced Antbird
+Myrmoderus ruficauda	Scalloped Antbird	Thamnophilidae (Typical Antbirds)	EN		Myrmoborus stictopterus	Rio Negro Ash-breasted Antbird
+Myrmoderus loricatus	White-bibbed Antbird	Thamnophilidae (Typical Antbirds)	LC		Myrmoborus lugubris	Ash-breasted Antbird
+Myrmoderus squamosus	Squamate Antbird	Thamnophilidae (Typical Antbirds)	LC		Pyriglena similis	Tapajós Fire-eye
+Myrmelastes rufifacies	Rufous-faced Antbird	Thamnophilidae (Typical Antbirds)	LC		Pyriglena leuconota	East Amazonian Fire-eye
+Pyriglena atra	Fringe-backed Fire-eye	Thamnophilidae (Typical Antbirds)	EN		Pyriglena pernambucensis	Pernambuco Fire-eye
+Rhopornis ardesiacus	Slender Antbird	Thamnophilidae (Typical Antbirds)	EN		Pyriglena atra	Fringe-backed Fire-eye
+Conopophaga snethlageae	Black-breasted Gnateater	Conopophagidae (Gnateaters)	LC		Rhopornis ardesiacus	Slender Antbird
+Conopophaga melanops	Black-cheeked Gnateater	Conopophagidae (Gnateaters)	LC		Percnostola subcristata	Hellmayr's Antbird
+Conopophaga cearae	Ceara Gnateater	Conopophagidae (Gnateaters)	NT		Cercomacra brasiliana	Rio de Janeiro Antbird
+Conopophaga roberti	Hooded Gnateater	Conopophagidae (Gnateaters)	LC		Cercomacra ferdinandi	Bananal Antbird
+Hylopezus ochroleucus	White-browed Antpitta	Grallariidae (Antpittas)	LC		Drymophila ferruginea	Ferruginous Antbird
+Eleoscytalopus psychopompus	Bahia Tapaculo	Rhinocryptidae (Tapaculos)	EN		Drymophila genei	Rufous-tailed Antbird
+Eleoscytalopus indigoticus	White-breasted Tapaculo	Rhinocryptidae (Tapaculos)	LC		Drymophila ochropyga	Ochre-rumped Antbird
+Merulaxis ater	Slaty Bristlefront	Rhinocryptidae (Tapaculos)	LC		Drymophila squamata	Scaled Antbird
+Merulaxis stresemanni	Stresemann's Bristlefront	Rhinocryptidae (Tapaculos)	CR		Hypocnemis rondoni	Manicore Warbling-Antbird
+Scytalopus petrophilus	Rock Tapaculo	Rhinocryptidae (Tapaculos)	LC		Hypocnemis striata	Spix's Warbling-Antbird
+Scytalopus diamantinensis	Diamantina Tapaculo	Rhinocryptidae (Tapaculos)	EN		Willisornis vidua	Xingu Scale-backed Antbird
+Scytalopus novacapitalis	Brasilia Tapaculo	Rhinocryptidae (Tapaculos)	EN		Phlegopsis borbae	Pale-faced Bare-eye
+Scytalopus gonzagai	Boa Nova Tapaculo	Rhinocryptidae (Tapaculos)	EN		Rhegmatorhina gymnops	Bare-eyed Antbird
+Scytalopus iraiensis	Marsh Tapaculo	Rhinocryptidae (Tapaculos)	EN		Rhegmatorhina berlepschi	Harlequin Antbird
+Chamaeza meruloides	Cryptic Antthrush	Formicariidae (Ground-antbirds)	LC		Rhegmatorhina hoffmannsi	White-breasted Antbird
+Sclerurus cearensis	Ceara Leaftosser	Furnariidae (Ovenbirds)	VU		Conopophaga melanops	Black-cheeked Gnateater
+Dendrocolaptes hoffmannsi	Hoffmanns's Woodcreeper	Furnariidae (Ovenbirds)	VU		Conopophaga cearae	Ceara Gnateater
+Xiphocolaptes falcirostris	Moustached Woodcreeper	Furnariidae (Ovenbirds)	VU		Conopophaga roberti	Hooded Gnateater
+Xiphorhynchus atlanticus	Atlantic Woodcreeper	Furnariidae (Ovenbirds)	VU		Hylopezus ochroleucus	White-browed Antpitta
+Campylorhamphus probatus	Tapajos Scythebill	Furnariidae (Ovenbirds)	LC		Hylopezus whittakeri	Alta Floresta Antpitta
+Campylorhamphus multostriatus	Xingu Scythebill	Furnariidae (Ovenbirds)	NT		Hylopezus paraensis	Snethlage's Antpitta
+Lepidocolaptes squamatus	Scaled Woodcreeper	Furnariidae (Ovenbirds)	LC		Myrmothera subcanescens	Tapajos Antpitta
+Furnarius figulus	Wing-banded Hornero	Furnariidae (Ovenbirds)	LC		Merulaxis ater	Slaty Bristlefront
+Cinclodes pabsti	Long-tailed Cinclodes	Furnariidae (Ovenbirds)	NT		Merulaxis stresemanni	Stresemann's Bristlefront
+Anabazenops fuscus	White-collared Foliage-gleaner	Furnariidae (Ovenbirds)	LC		Eleoscytalopus indigoticus	White-breasted Tapaculo
+Megaxenops parnaguae	Great Xenops	Furnariidae (Ovenbirds)	LC		Eleoscytalopus psychopompus	Bahia Tapaculo
+Cichlocolaptes leucophrus	Large Pale-browed Treehunter	Furnariidae (Ovenbirds)	LC		Scytalopus iraiensis	Marsh Tapaculo
+Cichlocolaptes holti	Small Pale-browed Treehunter	Furnariidae (Ovenbirds)	LC		Scytalopus diamantinensis	Diamantina Tapaculo
+Philydor novaesi	Alagoas Foliage-gleaner	Furnariidae (Ovenbirds)	EX		Scytalopus novacapitalis	Brasilia Tapaculo
+Automolus paraensis	Para Foliage-gleaner	Furnariidae (Ovenbirds)	LC		Scytalopus petrophilus	Rock Tapaculo
+Automolus lammi	Pernambuco Foliage-gleaner	Furnariidae (Ovenbirds)	EN		Scytalopus gonzagai	Boa Nova Tapaculo
+Leptasthenura striolata	Striolated Tit-spinetail	Furnariidae (Ovenbirds)	LC		Scytalopus speluncae	Mouse-colored Tapaculo
+Phacellodomus erythrophthalmus	Orange-eyed Thornbird	Furnariidae (Ovenbirds)	LC		Chamaeza meruloides	Such's Antthrush
+Asthenes luizae	Cipo Canastero	Furnariidae (Ovenbirds)	NT		Sclerurus cearensis	Ceara Leaftosser
+Asthenes moreirae	Itatiaia Spinetail	Furnariidae (Ovenbirds)	LC		Dendrocincla taunayi	Pernambuco Woodcreeper
+Acrobatornis fonsecai	Pink-legged Graveteiro	Furnariidae (Ovenbirds)	VU		Dendrexetastes paraensis	Para Woodcreeper
+Thripophaga macroura	Striated Softtail	Furnariidae (Ovenbirds)	VU		Dendrocolaptes ridgwayi	Ridgway's Woodcreeper
+Cranioleuca muelleri	Scaled Spinetail	Furnariidae (Ovenbirds)	LC		Dendrocolaptes retentus	Xingu Woodcreeper
+Cranioleuca pallida	Pallid Spinetail	Furnariidae (Ovenbirds)	LC		Dendrocolaptes medius	Todd's Woodcreeper
+Cranioleuca semicinerea	Grey-headed Spinetail	Furnariidae (Ovenbirds)	LC		Dendrocolaptes hoffmannsi	Hoffmanns's Woodcreeper
+Pseudoseisura cristata	Caatinga Cacholote	Furnariidae (Ovenbirds)	LC		Dendrocolaptes transfasciatus	Santarem Woodcreeper
+Synallaxis simoni	Araguaia Spinetail	Furnariidae (Ovenbirds)	LC		Xiphocolaptes carajaensis	Carajas Woodcreeper
+Synallaxis hellmayri	Red-shouldered Spinetail	Furnariidae (Ovenbirds)	LC		Xiphocolaptes falcirostris	Moustached Woodcreeper
+Synallaxis cinerea	Bahia Spinetail	Furnariidae (Ovenbirds)	NT		Xiphorhynchus atlanticus	Ceara Woodcreeper
+Synallaxis infuscata	Pinto's Spinetail	Furnariidae (Ovenbirds)	EN		Xiphorhynchus spixii	Spix's Woodcreeper
+Neopelma aurifrons	Wied's Tyrant-manakin	Pipridae (Manakins)	NT		Campylorhamphus multostriatus	Snethlage's Scythebill
+Neopelma chrysolophum	Serra do Mar Tyrant-manakin	Pipridae (Manakins)	LC		Campylorhamphus probatus	Rondonia Scythebill
+Machaeropterus regulus	Kinglet Manakin	Pipridae (Manakins)	LC		Campylorhamphus cardosoi	Tapajos Scythebill
+Lepidothrix vilasboasi	Golden-crowned Manakin	Pipridae (Manakins)	LC		Lepidocolaptes wagleri	Wagler’s Woodcreeper
+Lepidothrix iris	Opal-crowned Manakin	Pipridae (Manakins)	VU		Lepidocolaptes squamatus	Scaled Woodcreeper
+Ilicura militaris	Pin-tailed Manakin	Pipridae (Manakins)	LC		Lepidocolaptes layardi	Layard's Woodcreeper
+Antilophia bokermanni	Araripe Manakin	Pipridae (Manakins)	CR		Furnarius figulus	Wing-banded Hornero
+Carpornis cucullata	Hooded Berryeater	Cotingidae (Cotingas)	LC		Cinclodes espinhacensis	Cipo Cinclodes
+Carpornis melanocephala	Black-headed Berryeater	Cotingidae (Cotingas)	NT		Cinclodes pabsti	Long-tailed Cinclodes
+Lipaugus ater	Black-and-gold Cotinga	Cotingidae (Cotingas)	LC		Anabazenops fuscus	White-collared Foliage-gleaner
+Lipaugus conditus	Grey-winged Cotinga	Cotingidae (Cotingas)	VU		Megaxenops parnaguae	Great Xenops
+Lipaugus lanioides	Cinnamon-vented Piha	Cotingidae (Cotingas)	LC		Cichlocolaptes mazarbarnetti	Cryptic Treehunter
+Cotinga maculata	Banded Cotinga	Cotingidae (Cotingas)	CR		Cichlocolaptes leucophrus	Pale-browed Treehunter
+Xipholena lamellipennis	White-tailed Cotinga	Cotingidae (Cotingas)	NT		Philydor novaesi	Alagoas Foliage-gleaner
+Xipholena atropurpurea	White-winged Cotinga	Cotingidae (Cotingas)	VU		Automolus paraensis	Para Foliage-gleaner
+Onychorhynchus swainsoni	Atlantic Royal Flycatcher	Tityridae (Tityras and allies)	VU		Automolus lammi	Pernambuco Foliage-gleaner
+Iodopleura pipra	Buff-throated Purpletuft	Tityridae (Tityras and allies)	EN		Leptasthenura striolata	Striolated Tit-Spinetail
+Tityra leucura	White-tailed Tityra	Tityridae (Tityras and allies)	DD		Phacellodomus erythrophthalmus	Orange-eyed Thornbird
+Laniisoma elegans	Elegant Mourner	Tityridae (Tityras and allies)	NT		Asthenes luizae	Cipo Canastero
+Calyptura cristata	Kinglet Calyptura	Tyrannidae (Tyrant-flycatchers)	CR		Asthenes moreirae	Itatiaia Spinetail
+Phylloscartes beckeri	Bahia Tyrannulet	Tyrannidae (Tyrant-flycatchers)	EN		Acrobatornis fonsecai	Pink-legged Graveteiro
+Phylloscartes kronei	Restinga Tyrannulet	Tyrannidae (Tyrant-flycatchers)	LC		Thripophaga macroura	Striated Softtail
+Phylloscartes ceciliae	Alagoas Tyrannulet	Tyrannidae (Tyrant-flycatchers)	CR		Cranioleuca pallida	Pallid Spinetail
+Phylloscartes roquettei	Minas Gerais Tyrannulet	Tyrannidae (Tyrant-flycatchers)	EN		Cranioleuca semicinerea	Gray-headed Spinetail
+Phylloscartes oustaleti	Oustalet's Tyrannulet	Tyrannidae (Tyrant-flycatchers)	NT		Cranioleuca muelleri	Scaled Spinetail
+Phylloscartes difficilis	Serra do Mar Tyrannulet	Tyrannidae (Tyrant-flycatchers)	LC		Pseudoseisura cristata	Caatinga Cacholote
+Hemitriccus orbitatus	Eye-ringed Tody-tyrant	Tyrannidae (Tyrant-flycatchers)	NT		Synallaxis simoni	Araguaia Spinetail
+Hemitriccus nidipendulus	Hangnest Tody-tyrant	Tyrannidae (Tyrant-flycatchers)	LC		Synallaxis hellmayri	Red-shouldered Spinetail
+Hemitriccus mirandae	Buff-breasted Tody-tyrant	Tyrannidae (Tyrant-flycatchers)	VU		Synallaxis sp.	Amazonian Spinetail
+Hemitriccus kaempferi	Kaempfer's Tody-tyrant	Tyrannidae (Tyrant-flycatchers)	VU		Synallaxis cinerea	Bahia Spinetail
+Hemitriccus furcatus	Fork-tailed Tody-tyrant	Tyrannidae (Tyrant-flycatchers)	VU		Synallaxis infuscata	Pinto's Spinetail
+Poecilotriccus senex	Buff-cheeked Tody-flycatcher	Tyrannidae (Tyrant-flycatchers)	LC		Neopelma aurifrons	Wied's Tyrant-Manakin
+Todirostrum poliocephalum	Yellow-lored Tody-flycatcher	Tyrannidae (Tyrant-flycatchers)	LC		Neopelma chrysolophum	Serra do Mar Tyrant-Manakin
+Zimmerius chicomendesi	Chico's Tyrannulet	Tyrannidae (Tyrant-flycatchers)	NT		Ilicura militaris	Pin-tailed Manakin
+Stigmatura bahiae	Bahia Wagtail-tyrant	Tyrannidae (Tyrant-flycatchers)	LC		Antilophia bokermanni	Araripe Manakin
+Elaenia ridleyana	Noronha Elaenia	Tyrannidae (Tyrant-flycatchers)	VU		Lepidothrix vilasboasi	Golden-crowned Manakin
+Phyllomyias griseocapilla	Grey-capped Tyrannulet	Tyrannidae (Tyrant-flycatchers)	NT		Lepidothrix iris	Opal-crowned Manakin
+Polystictus superciliaris	Grey-backed Tachuri	Tyrannidae (Tyrant-flycatchers)	LC		Machaeropterus regulus	Striped Manakin
+Knipolegus franciscanus	Caatinga Black-tyrant	Tyrannidae (Tyrant-flycatchers)	LC		Carpornis cucullata	Hooded Berryeater
+Knipolegus nigerrimus	Velvety Black-tyrant	Tyrannidae (Tyrant-flycatchers)	LC		Carpornis melanocephala	Black-headed Berryeater
+Attila rufus	Grey-hooded Attila	Tyrannidae (Tyrant-flycatchers)	LC		Lipaugus lanioides	Cinnamon-vented Piha
+Casiornis fuscus	Ash-throated Casiornis	Tyrannidae (Tyrant-flycatchers)	LC		Lipaugus ater	Black-and-gold Cotinga
+Hylophilus thoracicus	Rio de Janeiro Greenlet	Vireonidae (Vireos)	LC		Lipaugus conditus	Gray-winged Cotinga
+Tunchiornis rubrifrons	Rufous-fronted Greenlet	Vireonidae (Vireos)	LC		Cotinga maculata	Banded Cotinga
+Vireo gracilirostris	Noronha Vireo	Vireonidae (Vireos)	NT		Xipholena lamellipennis	White-tailed Cotinga
+Cyanocorax hafferi	Campina Jay	Corvidae (Crows and jays)	NT		Xipholena atropurpurea	White-winged Cotinga
+Cyanocorax cyanopogon	White-naped Jay	Corvidae (Crows and jays)	LC		Laniisoma elegans	Shrike-like Cotinga
+Cantorchilus longirostris	Long-billed Wren	Troglodytidae (Wrens)	LC		Iodopleura pipra	Buff-throated Purpletuft
+Cantorchilus griseus	Grey Wren	Troglodytidae (Wrens)	LC		Onychorhynchus swainsoni	Atlantic Royal Flycatcher
+Cichlopsis leucogenys	Rufous-brown Solitaire	Turdidae (Thrushes)	EN		Calyptura cristata	Kinglet Calyptura
+Arremon flavirostris	Saffron-billed Sparrow	Passerellidae (New World sparrows)	LC		Phylloscartes kronei	Restinga Tyrannulet
+Arremon semitorquatus	Half-collared Sparrow	Passerellidae (New World sparrows)	LC		Phylloscartes beckeri	Bahia Tyrannulet
+Arremon franciscanus	Sao Francisco Sparrow	Passerellidae (New World sparrows)	NT		Phylloscartes ceciliae	Alagoas Tyrannulet
+Psarocolius bifasciatus	Para Oropendola	Icteridae (New World blackbirds)	LC		Phylloscartes roquettei	Minas Gerais Tyrannulet
+Icterus jamacaii	Campo Troupial	Icteridae (New World blackbirds)	LC		Phylloscartes oustaleti	Oustalet's Tyrannulet
+Anumara forbesi	Forbes's Blackbird	Icteridae (New World blackbirds)	VU		Phylloscartes difficilis	Serra do Mar Tyrannulet
+Agelaioides fringillarius	Pale Baywing	Icteridae (New World blackbirds)	LC		Tolmomyias sucunduri	Sucunduri Flycatcher
+Myiothlypis leucophrys	White-striped Warbler	Parulidae (New World warblers)	LC		Todirostrum poliocephalum	Gray-headed Tody-Flycatcher
+Orthogonys chloricterus	Olive-green Tanager	Mitrospingidae (Mitrospingid tanagers)	LC		Poecilotriccus senex	Buff-cheeked Tody-Flycatcher
+Granatellus paraensis	Rose-bellied Chat	Cardinalidae (Cardinals)	LC		Hemitriccus orbitatus	Eye-ringed Tody-Tyrant
+Paroaria dominicana	Red-cowled Cardinal	Thraupidae (Tanagers)	LC		Hemitriccus nidipendulus	Hangnest Tody-Tyrant
+Paroaria baeri	Crimson-fronted Cardinal	Thraupidae (Tanagers)	LC		Hemitriccus mirandae	Buff-breasted Tody-Tyrant
+Tangara cyanoptera	Azure-shouldered Tanager	Thraupidae (Tanagers)	NT		Hemitriccus kaempferi	Kaempfer's Tody-Tyrant
+Tangara ornata	Golden-chevroned Tanager	Thraupidae (Tanagers)	LC		Hemitriccus furcatus	Fork-tailed Pygmy-Tyrant
+Tangara peruviana	Black-backed Tanager	Thraupidae (Tanagers)	VU		Zimmerius chicomendesi	Chico's Tyrannulet
+Tangara fastuosa	Seven-colored Tanager	Thraupidae (Tanagers)	VU		Elaenia ridleyana	Noronha Elaenia
+Tangara desmaresti	Brassy-breasted Tanager	Thraupidae (Tanagers)	LC		Phyllomyias griseocapilla	Gray-capped Tyrannulet
+Tangara cyanoventris	Gilt-edged Tanager	Thraupidae (Tanagers)	LC		Polystictus superciliaris	Gray-backed Tachuri
+Tangara brasiliensis	White-bellied Tanager	Thraupidae (Tanagers)	LC		Attila rufus	Gray-hooded Attila
+Tangara cyanomelas	Silver-breasted Tanager	Thraupidae (Tanagers)	LC		Casiornis fuscus	Ash-throated Casiornis
+Orchesticus abeillei	Brown Tanager	Thraupidae (Tanagers)	NT		Knipolegus franciscanus	Caatinga Black-Tyrant
+Nemosia rourei	Cherry-throated Tanager	Thraupidae (Tanagers)	CR		Knipolegus nigerrimus	Velvety Black-Tyrant
+Compsothraupis loricata	Scarlet-throated Tanager	Thraupidae (Tanagers)	LC		Hylophilus amaurocephalus	Gray-eyed Greenlet
+Embernagra longicauda	Pale-throated Pampa-finch	Thraupidae (Tanagers)	LC		Vireo gracilirostris	Noronha Vireo
+Hemithraupis ruficapilla	Rufous-headed Tanager	Thraupidae (Tanagers)	LC		Cyanocorax hafferi	Campina Jay
+Dacnis nigripes	Black-legged Dacnis	Thraupidae (Tanagers)	NT		Cyanocorax cyanopogon	White-naped Jay
+Conothraupis mesoleuca	Cone-billed Tanager	Thraupidae (Tanagers)	EN		Cantorchilus longirostris	Long-billed Wren
+Sporophila ardesiaca	Dubois's Seedeater	Thraupidae (Tanagers)	LC		Cantorchilus griseus	Gray Wren
+Sporophila beltoni	Tropeiro Seedeater	Thraupidae (Tanagers)	VU		Cyphorhinus interpositus	Rondonia Wren
+Sporophila albogularis	White-throated Seedeater	Thraupidae (Tanagers)	LC		Cyphorhinus griseolateralis	Gray-flanked Wren
+Sporophila melanogaster	Black-bellied Seedeater	Thraupidae (Tanagers)	NT		Polioptila atricapilla	White-bellied Gnatcatcher
+Microspingus lateralis	Buff-breasted Warbling-finch	Thraupidae (Tanagers)	LC		Polioptila paraensis	Para Gnatcatcher
+Microspingus cinereus	Cinereous Warbling-finch	Thraupidae (Tanagers)	LC		Polioptila attenboroughi	Inambari Gnatcatcher
+					Arremon franciscanus	Sao Francisco Sparrow
+					Arremon semitorquatus	Half-collared Sparrow
+					Arremon flavirostris	Saffron-billed Sparrow
+					Icterus jamacaii	Campo Troupial
+					Anumara forbesi	Forbes's Blackbird
+					Agelaioides fringillarius	Pale Baywing
+					Agelasticus atroolivaceus	Unicolored Blackbird
+					Myiothlypis leucophrys	White-striped Warbler
+					Orthogonys chloricterus	Olive-green Tanager
+					Caryothraustes brasiliensis	Brazilian Grosbeak
+					Orchesticus abeillei	Brown Tanager
+					Nemosia rourei	Cherry-throated Tanager
+					Compsothraupis loricata	Scarlet-throated Tanager
+					Embernagra longicauda	Pale-throated Pampa-Finch
+					Hemithraupis ruficapilla	Rufous-headed Tanager
+					Dacnis nigripes	Black-legged Dacnis
+					Conothraupis mesoleuca	Cone-billed Tanager
+					Ramphocelus bresilia	Brazilian Tanager
+					Sporophila beltoni	Tropeiro Seedeater
+					Sporophila ardesiaca	Dubois's Seedeater
+					Sporophila albogularis	White-throated Seedeater
+					Sporophila melanogaster	Black-bellied Seedeater
+					Castanozoster thoracicus	Bay-chested Warbling-Finch
+					Microspingus lateralis	Buff-throated Warbling-Finch
+					Microspingus cinereus	Cinereous Warbling-Finch
+					Paroaria dominicana	Red-cowled Cardinal
+					Paroaria baeri	Araguaia Cardinal
+					Paroaria xinguensis	Xingu Cardinal
+					Thraupis cyanoptera	Azure-shouldered Tanager
+					Thraupis ornata	Golden-chevroned Tanager
+					Stilpnia peruviana	Black-backed Tanager
+					Tangara fastuosa	Seven-colored Tanager
+					Tangara cyanoventris	Gilt-edged Tanager
+					Tangara desmaresti	Brassy-breasted Tanager
+					Tangara brasiliensis	White-bellied Tanager
+					Tangara cyanomelas	Silver-breasted Tanager

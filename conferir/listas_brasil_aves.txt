@@ -1,0 +1,264 @@
+	#	Ordem	Família	Espécie ou Subespécie	Categoria
+406	*	Accipitriformes	Accipitridae	Amadonastur lacernulatus	VU
+407	*	Accipitriformes	Accipitridae	Circus cinereus	VU
+408	*	Accipitriformes	Accipitridae	Harpia harpyja	VU
+409	*	Accipitriformes	Accipitridae	Leptodon forbesi	EN
+410	*	Accipitriformes	Accipitridae	Morphnus guianensis	VU
+411	*	Accipitriformes	Accipitridae	Urubitinga coronata	EN
+412	*	Anseriformes	Anatidae	Mergus octosetaceus	CR
+413	*	Apodiformes	Trochilidae	Augastes lumachella	EN
+414		Apodiformes	Trochilidae	Campylopterus calcirupicola	EN
+415		Apodiformes	Trochilidae	Colibridelphinae greenewalti	EN
+416	*	Apodiformes	Trochilidae	Discosuralangsdorffi langsdorffi	EN
+417	*	Apodiformes	Trochilidae	Glaucis dohrnii	VU
+418	*	Apodiformes	Trochilidae	Lophornis gouldii	VU
+419	*	Apodiformes	Trochilidae	Phaethornis aethopygus	VU
+420	*	Apodiformes	Trochilidae	Phaethornis major	VU
+421	*	Apodiformes	Trochilidae	Phaethornis margarettae	EN
+422	*	Apodiformes	Trochilidae	Thalurania watertonii	EN
+423	*	Caprimulgiformes	Caprimulgidae	Hydropsalis candicans	EN
+424		Caprimulgiformes	Caprimulgidae	Nyctiprogne vielliardi	EN
+425		Charadriiformes	Burhinidae	Burhinus bistriatus	VU
+426	*	Charadriiformes	Charadriidae	Charadrius wilsonia	VU
+427	*	Charadriiformes	Laridae	Sterna dougallii	VU
+428	*	Charadriiformes	Laridae	Sterna hirundinacea	VU
+429		Charadriiformes	Laridae	Thalasseusacuflavidus	VU
+430	*	Charadriiformes	Laridae	Thalasseus maximus	EN
+431	*	Charadriiformes	Scolopacidae	Calidris canutus	VU
+432	*	Charadriiformes	Scolopacidae	Calidris pusilla	EN
+433	*	Charadriiformes	Scolopacidae	Calidrissubruficollis	VU
+434	*	Charadriiformes	Scolopacidae	Limnodromus griseus	EN
+435		Charadriiformes	Scolopacidae	Numenius hudsonicus	VU
+436	*	Columbiformes	Columbidae	Columbina cyanopis	CR
+437	*	Columbiformes	Columbidae	Paraclaravis geoffroyi	CR (PEX)
+438	*	Coraciiformes	Momotidae	Momotus momota marcgraviana	EN
+439	*	Cuculiformes	Cuculidae	Neomorphus geoffroyi	VU
+440	*	Cuculiformes	Cuculidae	Neomorphus geoffroyi amazonicus	VU
+441	*	Cuculiformes	Cuculidae	Neomorphus geoffroyi dulcis	EN
+442	*	Cuculiformes	Cuculidae	Neomorphus geoffroyi geoffroyi	CR (PEX)
+443	*	Cuculiformes	Cuculidae	Neomorphus squamiger	VU
+444		Galbuliformes	Bucconidae	Malacoptila minor	VU
+445	*	Galbuliformes	Bucconidae	Monasa morphoeus morphoeus	EN
+446		Galliformes	Cracidae	Aburria cujubi	VU
+447	*	Galliformes	Cracidae	Aburria jacutinga	EN
+448	*	Galliformes	Cracidae	Crax blumenbachii	EN
+449	*	Galliformes	Cracidae	Crax fasciolata pinima	CR
+450	*	Galliformes	Cracidae	Crax globulosa	EN
+451	*	Galliformes	Cracidae	Ortalis remota	CR
+452	*	Galliformes	Cracidae	Pauxi mitu	EW
+453	*	Galliformes	Cracidae	Penelope jacucaca	VU
+454	*	Galliformes	Cracidae	Penelope pileata	VU
+455	*	Galliformes	Cracidae	Penelope superciliaris alagoensis	CR
+456	*	Galliformes	Odontophoridae	Odontophoruscapueira plumbeicollis	CR
+457	*	Gruiformes	Psophiidae	Psophia dextralis	VU
+458	*	Gruiformes	Psophiidae	Psophia interjecta	EN
+459	*	Gruiformes	Psophiidae	Psophia obscura	CR
+460		Gruiformes	Psophiidae	Psophia viridis	VU
+461	*	Gruiformes	Rallidae	Laterallusspilopterus	EN
+462		Gruiformes	Rallidae	Laterallusxenopterus	EN
+463	*	Nyctibiiformes	Nyctibiidae	Nyctibius aethereus aethereus	EN
+464	*	Nyctibiiformes	Nyctibiidae	Nyctibius leucopterus	CR
+465		Passeriformes	Cardinalidae	Granatellus pelzelni paraensis	VU
+466	*	Passeriformes	Conopophagidae	Conopophaga cearae	EN
+467	*	Passeriformes	Conopophagidae	Conopophaga lineata lineata	VU
+468	*	Passeriformes	Corvidae	Cyanocorax hafferi	VU
+469	*	Passeriformes	Cotingidae	Cotinga maculata	EN
+470	*	Passeriformes	Cotingidae	Lipaugus conditus	VU
+471	*	Passeriformes	Cotingidae	Procnias albus wallacei	VU
+472	*	Passeriformes	Cotingidae	Xipholenaatropurpurea	VU
+473		Passeriformes	Cotingidae	Xipholenalamellipennis	VU
+474	*	Passeriformes	Dendrocolaptidae	Campylorhamphus cardosoi	VU
+475	*	Passeriformes	Dendrocolaptidae	Campylorhamphusmultostriatus	VU
+476	*	Passeriformes	Dendrocolaptidae	Campylorhamphus trochilirostris trochilirostris	VU
+477	*	Passeriformes	Dendrocolaptidae	Dendrexetastes rufigula paraensis	VU
+478	*	Passeriformes	Dendrocolaptidae	Dendrocincla merula badia	VU
+479	*	Passeriformes	Dendrocolaptidae	Dendrocincla taunayi	EN
+480	*	Passeriformes	Dendrocolaptidae	Dendrocolaptes medius	VU
+481	*	Passeriformes	Dendrocolaptidae	Dendrocolaptes retentus	VU
+482	*	Passeriformes	Dendrocolaptidae	Dendrocolaptes transfasciatus	VU
+483	*	Passeriformes	Dendrocolaptidae	Hylexetastesbrigidai	VU
+484		Passeriformes	Dendrocolaptidae	Hylexetastesuniformis	VU
+485	*	Passeriformes	Dendrocolaptidae	Xiphocolaptes carajaensis	VU
+486	*	Passeriformes	Dendrocolaptidae	Xiphocolaptesfalcirostris	VU
+487	*	Passeriformes	Dendrocolaptidae	Xiphorhynchusatlanticus	VU
+488	*	Passeriformes	Dendrocolaptidae	Xiphorhynchusguttatoidesgracilirostris	EN
+489	*	Passeriformes	Formicariidae	Chamaeza nobilis fulvipectus	VU
+490	*	Passeriformes	Fringillidae	Spinus yarrellii	VU
+491	*	Passeriformes	Furnariidae	Acrobatornis fonsecai	VU
+492		Passeriformes	Furnariidae	Anabazenops dorsalis	VU
+493	*	Passeriformes	Furnariidae	Asthenes hudsoni	VU
+494		Passeriformes	Furnariidae	Asthenes luizae	EN
+495	*	Passeriformes	Furnariidae	Automolus lammi	EN
+496	*	Passeriformes	Furnariidae	Cinclodes espinhacensis	EN
+497	*	Passeriformes	Furnariidae	Coryphisteraalaudina	CR
+498	*	Passeriformes	Furnariidae	Leptasthenuraplatensis	CR
+499	*	Passeriformes	Furnariidae	Pseudoseisura lophotes	VU
+500	*	Passeriformes	Furnariidae	Synallaxis infuscata	EN
+501	*	Passeriformes	Furnariidae	Synallaxis kollari	VU
+502		Passeriformes	Furnariidae	Syndactyla ucayalae	VU
+503	*	Passeriformes	Furnariidae	Thripophaga macroura	VU
+504	*	Passeriformes	Grallariidae	Grallaria varia distincta	VU
+505	*	Passeriformes	Grallariidae	Grallaria varia intercedens	EN
+506	*	Passeriformes	Grallariidae	Hylopezus paraensis	VU
+507		Passeriformes	Grallariidae	Hylopezus whittakeri	VU
+508	*	Passeriformes	Icteridae	Anumara forbesi	VU
+509		Passeriformes	Icteridae	Cacicus koepckeae	VU
+510	*	Passeriformes	Icteridae	Xanthopsar flavus	VU
+511	*	Passeriformes	Motacillidae	Anthus nattereri	VU
+512		Passeriformes	Onychorhynchidae	Onychorhynchusswainsoni	VU
+513		Passeriformes	Oxyruncidae	Oxyruncus cristatus tocantinsi	VU
+514	*	Passeriformes	Passerellidae	Arremonops conirostris	EN
+515	*	Passeriformes	Pipridae	Antilophia bokermanni	CR
+516	*	Passeriformes	Pipridae	Lepidothrix iris	EN
+517	*	Passeriformes	Pipridae	Lepidothrix iris iris	EN
+518	*	Passeriformes	Pipridae	Lepidothrix vilasboasi	EN
+519	*	Passeriformes	Pipridae	Neopelma aurifrons	EN
+520	*	Passeriformes	Platyrinchidae	Calyptura cristata	CR (PEX)
+521		Passeriformes	Platyrinchidae	Platyrinchus leucoryphus	VU
+522	*	Passeriformes	Platyrinchidae	Platyrinchus mystaceus niveigularis	VU
+523	*	Passeriformes	Rhinocryptidae	Eleoscytalopuspsychopompus	EN
+524	*	Passeriformes	Rhinocryptidae	Merulaxis stresemanni	CR
+525	*	Passeriformes	Rhinocryptidae	Scytalopusdiamantinensis	EN
+526	*	Passeriformes	Rhinocryptidae	Scytalopus gonzagai	EN
+527	*	Passeriformes	Rhinocryptidae	Scytalopus iraiensis	EN
+528	*	Passeriformes	Rhinocryptidae	Scytalopusnovacapitalis	EN
+529		Passeriformes	Rhynchocyclidae	Cnipodectessuperrufus	VU
+530	*	Passeriformes	Rhynchocyclidae	Hemitriccus kaempferi	VU
+531	*	Passeriformes	Rhynchocyclidae	Hemitriccus mirandae	EN
+532	*	Passeriformes	Rhynchocyclidae	Phylloscartes beckeri	EN
+533	*	Passeriformes	Rhynchocyclidae	Phylloscartes ceciliae	CR
+534	*	Passeriformes	Rhynchocyclidae	Phylloscartes roquettei	EN
+535		Passeriformes	Rhynchocyclidae	Poecilotriccus albifacies	VU
+536	*	Passeriformes	Scleruridae	Geositta poeciloptera	VU
+537	*	Passeriformes	Scleruridae	Sclerurus caudacutus caligineus	CR
+538	*	Passeriformes	Scleruridae	Sclerurus caudacutus umbretta	CR
+539	*	Passeriformes	Scleruridae	Sclerurus cearensis	EN
+540	*	Passeriformes	Scleruridae	Sclerurus macconnelli bahiae	EN
+541		Passeriformes	Thamnophilidae	Clytoctantesatrogularis	VU
+542	*	Passeriformes	Thamnophilidae	Dysithamnusplumbeus	EN
+543		Passeriformes	Thamnophilidae	Epinecrophylladentei	VU
+544	*	Passeriformes	Thamnophilidae	Formicivoraacutirostris	VU
+545	*	Passeriformes	Thamnophilidae	Formicivora erythronotos	CR
+546	*	Passeriformes	Thamnophilidae	Formicivoragrantsaui	EN
+547	*	Passeriformes	Thamnophilidae	Formicivoralittoralis	EN
+548	*	Passeriformes	Thamnophilidae	Formicivorapaludicola	CR
+549		Passeriformes	Thamnophilidae	Hypocnemishypoxanthaochraceiventris	VU
+550	*	Passeriformes	Thamnophilidae	Hypocnemisochrogyna	VU
+551		Passeriformes	Thamnophilidae	Hypocnemis striata	VU
+552	*	Passeriformes	Thamnophilidae	Myrmoderus ruficauda	EN
+553	*	Passeriformes	Thamnophilidae	Myrmotherula fluminensis	CR (PEX)
+554	*	Passeriformes	Thamnophilidae	Myrmotherula minor	VU
+555		Passeriformes	Thamnophilidae	Myrmotherula oreni	VU
+556	*	Passeriformes	Thamnophilidae	Myrmotherula snowi	CR
+557	*	Passeriformes	Thamnophilidae	Myrmotherula urosticta	VU
+558		Passeriformes	Thamnophilidae	Phlegopsis borbae	VU
+559	*	Passeriformes	Thamnophilidae	Phlegopsis nigromaculata confinis	VU
+560	*	Passeriformes	Thamnophilidae	Phlegopsis nigromaculata paraensis	VU
+561	*	Passeriformes	Thamnophilidae	Pyriglena atra	EN
+562	*	Passeriformes	Thamnophilidae	Pyriglena pernambucensis	VU
+563	*	Passeriformes	Thamnophilidae	Rhegmatorhina gymnops	VU
+564		Passeriformes	Thamnophilidae	Rhegmatorhina hoffmannsi	VU
+565	*	Passeriformes	Thamnophilidae	Rhopornis ardesiacus	EN
+566	*	Passeriformes	Thamnophilidae	Terenura sicki	CR
+567	*	Passeriformes	Thamnophilidae	Thamnomanes caesius caesius	VU
+568	*	Passeriformes	Thamnophilidae	Thamnophilusaethiops distans	EN
+569	*	Passeriformes	Thamnophilidae	Thamnophilus caerulescens cearensis	VU
+570	*	Passeriformes	Thamnophilidae	Thamnophiluscaerulescens pernambucensis	VU
+571		Passeriformes	Thamnophilidae	Thamnophilusnigrocinereus huberi	VU
+572	*	Passeriformes	Thamnophilidae	Thamnophilusnigrocinereus tschudii	EN
+573	*	Passeriformes	Thraupidae	Conothraupis mesoleuca	EN
+574	*	Passeriformes	Thraupidae	Coryphaspiza melanotis	VU
+575	*	Passeriformes	Thraupidae	Gubernatrix cristata	CR
+576	*	Passeriformes	Thraupidae	Nemosia rourei	CR
+577	*	Passeriformes	Thraupidae	Sporophila beltoni	VU
+578	*	Passeriformes	Thraupidae	Sporophilafalcirostris	VU
+579	*	Passeriformes	Thraupidae	Sporophila frontalis	VU
+580	*	Passeriformes	Thraupidae	Sporophilahypoxantha	VU
+581	*	Passeriformes	Thraupidae	Sporophila maximiliani	CR
+582	*	Passeriformes	Thraupidae	Sporophila melanogaster	VU
+583	*	Passeriformes	Thraupidae	Sporophilanigrorufa	VU
+584	*	Passeriformes	Thraupidae	Sporophila palustris	VU
+585	*	Passeriformes	Thraupidae	Sporophila ruficollis	VU
+586	*	Passeriformes	Thraupidae	Tangara cyanocephala cearensis	VU
+587	*	Passeriformes	Thraupidae	Tangara fastuosa	VU
+588	*	Passeriformes	Thraupidae	Tangara velia signata	VU
+589	*	Passeriformes	Tityridae	Iodopleura pipra	EN
+590	*	Passeriformes	Tityridae	Iodopleura pipra leucopygia	EN
+591	*	Passeriformes	Tityridae	Iodopleura pipra pipra	EN
+592		Passeriformes	Tityridae	Laniisoma elegans	EN
+593	*	Passeriformes	Tityridae	Schiffornis turdina intermedia	VU
+594		Passeriformes	Troglodytidae	Cyphorhinusgriseolateralis	VU
+595	*	Passeriformes	Turdidae	Cichlopsisleucogenys	EN
+596	*	Passeriformes	Tyrannidae	Alectrurus tricolor	VU
+597	*	Passeriformes	Tyrannidae	Attila spadiceus uropygiatus	EN
+598		Passeriformes	Tyrannidae	Contopus nigrescens	VU
+599	*	Passeriformes	Tyrannidae	Elaenia ridleyana	VU
+600		Passeriformes	Tyrannidae	Knipolegus franciscanus	VU
+601		Passeriformes	Tyrannidae	Phyllomyias reiseri	EN
+602	*	Passeriformes	Tyrannidae	Serpophaga hypoleuca pallida	VU
+603	*	Passeriformes	Tyrannidae	Stigmatura napensis napensis	VU
+604	*	Passeriformes	Tyrannidae	Xolmis dominicanus	VU
+605	*	Passeriformes	Vireonidae	Vireo gracilirostris	VU
+606	*	Passeriformes	Xenopidae	Xenops minutus alagoanus	VU
+607	*	Pelecaniformes	Ardeidae	Tigrisoma fasciatum	VU
+608	*	Phaethontiformes	Phaethontidae	Phaethon aethereus	EN
+609	*	Phaethontiformes	Phaethontidae	Phaethon lepturus	EN
+610	*	Piciformes	Capitonidae	Capito dayi	VU
+611	*	Piciformes	Picidae	Celeus flavus subflavus	CR
+612	*	Piciformes	Picidae	Celeus galeatus	EN
+613	*	Piciformes	Picidae	Celeus obrieni	VU
+614	*	Piciformes	Picidae	Celeus torquatus pieteroyensi	VU
+615	*	Piciformes	Picidae	Celeus torquatus tinnunculus	EN
+616	*	Piciformes	Picidae	Piculus paraensis	VU
+617	*	Piciformes	Picidae	Piculus polyzonus	EN
+618	*	Piciformes	Ramphastidae	Pteroglossus bitorquatus bitorquatus	VU
+619	*	Piciformes	Ramphastidae	Selenideragouldii baturitensis	EN
+620	*	Procellariiformes	Diomedeidae	Diomedea dabbenena	CR
+621	*	Procellariiformes	Diomedeidae	Diomedea epomophora	VU
+622	*	Procellariiformes	Diomedeidae	Diomedea exulans	CR
+623	*	Procellariiformes	Diomedeidae	Diomedea sanfordi	EN
+624	*	Procellariiformes	Diomedeidae	Thalassarche chlororhynchos	EN
+625	*	Procellariiformes	Procellariidae	Procellaria aequinoctialis	VU
+626	*	Procellariiformes	Procellariidae	Procellaria conspicillata	VU
+627	*	Procellariiformes	Procellariidae	Pterodroma arminjoniana	CR
+628	*	Procellariiformes	Procellariidae	Pterodroma deserta	VU
+629	*	Procellariiformes	Procellariidae	Pterodroma incerta	EN
+630	*	Procellariiformes	Procellariidae	Pterodroma madeira	EN
+631	*	Procellariiformes	Procellariidae	Puffinus lherminieri	CR
+632	*	Psittaciformes	Psittacidae	Amazona pretrei	VU
+633	*	Psittaciformes	Psittacidae	Amazona rhodocorytha	VU
+634	*	Psittaciformes	Psittacidae	Amazona vinacea	VU
+635	*	Psittaciformes	Psittacidae	Anodorhynchus leari	EN
+636	*	Psittaciformes	Psittacidae	Aratinga solstitialis	EN
+637	*	Psittaciformes	Psittacidae	Cyanopsitta spixii	CR
+638	*	Psittaciformes	Psittacidae	Guaruba guarouba	VU
+639	*	Psittaciformes	Psittacidae	Pionus reichenowi	VU
+640	*	Psittaciformes	Psittacidae	Pyrilia vulturina	VU
+641		Psittaciformes	Psittacidae	Pyrrhura amazonum	VU
+642		Psittaciformes	Psittacidae	Pyrrhura anerythra	VU
+643	*	Psittaciformes	Psittacidae	Pyrrhura coerulescens	VU
+644	*	Psittaciformes	Psittacidae	Pyrrhura cruentata	VU
+645	*	Psittaciformes	Psittacidae	Pyrrhura griseipectus	EN
+646	*	Psittaciformes	Psittacidae	Pyrrhura leucotis	VU
+647		Psittaciformes	Psittacidae	Pyrrhura molinae	VU
+648		Psittaciformes	Psittacidae	Pyrrhura pallescens	VU
+649		Psittaciformes	Psittacidae	Pyrrhura perlata	VU
+650	*	Psittaciformes	Psittacidae	Pyrrhura pfrimeri	EN
+651	*	Psittaciformes	Psittacidae	Touit melanonotus	VU
+652	*	Psittaciformes	Psittacidae	Touit surdus	VU
+653	*	Strigiformes	Strigidae	Pulsatrix perspicillata pulsatrix	CR
+654	*	Strigiformes	Strigidae	Strix huhula albomarginata	VU
+655	*	Suliformes	Fregatidae	Fregata minor	CR
+656	*	Suliformes	Fregatidae	Fregata trinitatis	CR
+657	*	Suliformes	Sulidae	Sula sula	EN
+658	*	Tinamiformes	Tinamidae	Crypturellus zabele	VU
+659	*	Tinamiformes	Tinamidae	Nothura minor	EN
+660	*	Tinamiformes	Tinamidae	Taoniscus nanus	EN
+661	*	Tinamiformes	Tinamidae	Tinamus tao	VU
+662	*	Trogoniformes	Trogonidae	Trogon collaris eytoni	EN
+3	*	Charadriiformes	Scolopacidae	Numenius borealis	RE
+4	*	Passeriformes	Furnariidae	Cichlocolaptes mazarbarnetti	EX
+5	*	Passeriformes	Furnariidae	Philydor novaesi	EX
+6	*	Passeriformes	Icteridae	Leistes defilippii	RE
+7	*	Psittaciformes	Psittacidae	Anodorhynchus glaucus	RE
+8	*	Strigiformes	Strigidae	Glaucidium mooreorum	EX

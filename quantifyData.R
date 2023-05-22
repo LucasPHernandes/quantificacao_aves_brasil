@@ -117,10 +117,32 @@ tabela_venn$CATEGORIA_AMEACA[tabela_venn$CATEGORIA_AMEACA == "CR (PEX)"] = "CR"
 
 tabela_venn <- select(tabela_venn, CBRO_2021, NIVEL, CATEGORIA_AMEACA)
 
-tabela_venn_estadual <- tabela_venn %>%
+tab_venn_nova <- bind_rows(SP, SC_2011, RS_2014, RJ, PR_2018, PA, MG, ES_2022, BA, lista_nacional, lista_global)
+
+tab_venn_nova <- tab_venn_nova %>%
+  filter(CATEGORIA_AMEACA == "CR" | CATEGORIA_AMEACA == "VU" | CATEGORIA_AMEACA == "EN" | CATEGORIA_AMEACA == "CR(RE)" | CATEGORIA_AMEACA == "CR-PEW" | CATEGORIA_AMEACA == "CR(PE)" | CATEGORIA_AMEACA == "CR (PEX)")
+
+tab_venn_nova <- tab_venn_nova %>%
   filter(NIVEL == "São Paulo" | NIVEL == "Santa Catarina" | NIVEL == "Rio Grande do Sul" | NIVEL == "Rio de Janeiro" | NIVEL == "Paraná" | NIVEL == "Pará" | NIVEL == "Minas Gerais" | NIVEL == "Espírito Santo" | NIVEL == "Bahia" )
 
-tabela_venn_estadual <- select(tabela_venn_estadual, CBRO_2021)
+tab_venn_nova$CATEGORIA_AMEACA[tab_venn_nova$CATEGORIA_AMEACA == "CR (PE)"] = "CR"
+tab_venn_nova$CATEGORIA_AMEACA[tab_venn_nova$CATEGORIA_AMEACA == "CR(PE)"] = "CR"
+tab_venn_nova$CATEGORIA_AMEACA[tab_venn_nova$CATEGORIA_AMEACA == "CR-PEW"] = "CR"
+tab_venn_nova$CATEGORIA_AMEACA[tab_venn_nova$CATEGORIA_AMEACA == "CR (PEX)"] = "CR"
+
+
+tab_venn_nova_est <- select(tab_venn_nova, TAXON, CBRO_2021, CATEGORIA_AMEACA, NIVEL, ANO)
+
+tab_venn_nova_est <- tab_venn_nova_est %>%
+  filter(CATEGORIA_AMEACA == "CR" | CATEGORIA_AMEACA == "VU" | CATEGORIA_AMEACA == "EN" | CATEGORIA_AMEACA == "CR-PEW" | CATEGORIA_AMEACA == "CR(PE)" | CATEGORIA_AMEACA == "CR (PEX)")
+
+tab_venn_nova_est$CBRO_2021[tab_venn_nova_est$CBRO_2021 == "Crypturellus undulatus"] = "Crypturellus undulatus vermiculatus"
+tab_venn_nova_est$CBRO_2021[tab_venn_nova_est$CBRO_2021 == "Cypsnagra hirundinacea"] = "Cypsnagra hirundinacea hirundinacea"
+tab_venn_nova_est$CBRO_2021[tab_venn_nova_est$CBRO_2021 == "Dendrocolaptes certhia"] = "Dendrocolaptes medius"
+tab_venn_nova_est$CBRO_2021[tab_venn_nova_est$CBRO_2021 == "Dendrocolaptes certhia"] = "Dendrocolaptes medius"
+
+
+tabela_venn_estadual <- select(tabela_venn_estadual, CBRO_2021 )
 
 
 tabela_venn_global <- tabela_venn %>%
